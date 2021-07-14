@@ -1,7 +1,7 @@
 ## Counter Strike Strawberry Milk Edition
 
 
-![Image](photo/white.png)
+![Image](photo/logo.png)
 
 CSSME Discord Servers:
 
@@ -16,4 +16,4 @@ CSSME Discord Servers:
 
 ### 0x03 Ekran Görüntüleri / Screenshots
 
-![Image](photo/white.png)
+![Image](photo/logo.png)
