@@ -12,12 +12,12 @@ CSSME Discord Servers:
 
     1.create configs.ini
     
-"HudType" "2"
-"EnableNewMuzzleflash" "0"
-"EnableFireDlight" "0"
-"EnableBlood" "1"
-"GameLanguage" "na_en"
-"Font" "Calibri Light"
+    "HudType" "2"
+    "EnableNewMuzzleflash" "0"
+    "EnableFireDlight" "0"
+    "EnableBlood" "1"
+    "GameLanguage" "na_en"
+    "Font" "Calibri Light"
     
     2.create folder to set it according to your language. example: cstrike_english
     3.upload or create important txt files. /resource/-csbte_english.txt - cso_na_en.txt - cstrike_english.txt - cstrike_na_en.txt - mapname_english.txt
