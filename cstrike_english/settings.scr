@@ -1,0 +1,419 @@
+// NOTE:  THIS FILE IS AUTOMATICALLY REGENERATED, 
+//DO NOT EDIT THIS HEADER, YOUR COMMENTS WILL BE LOST IF YOU DO
+// Multiplayer options script
+//
+// Format:
+//  Version [float]
+//  Options description followed by 
+//  Options defaults
+//
+// Option description syntax:
+//
+//  "cvar" { "Prompt" { type [ type info ] } { default } }
+//
+//  type = 
+//   BOOL   (a yes/no toggle)
+//   STRING
+//   NUMBER
+//   LIST
+//
+// type info:
+// BOOL                 no type info
+// NUMBER       min max range, use -1 -1 for no limits
+// STRING       no type info
+// LIST          delimited list of options value pairs
+//
+//
+// default depends on type
+// BOOL is "0" or "1"
+// NUMBER is "value"
+// STRING is "value"
+// LIST is "index", where index "0" is the first element of the list
+
+
+// Half-Life Server Configuration Layout Script (stores last settings chosen, too)
+// File generated:  Mon May  3 05:13:39 AM
+//
+//
+// Cvar	-	Setting
+
+VERSION 1.0
+
+DESCRIPTION SERVER_OPTIONS
+{
+	"hostname"
+	{
+		"#Valve_Hostname"
+		{ STRING }
+		{ "Counter-Strike: SME" }
+	}
+
+	"maxplayers"
+	{
+		"#Valve_Max_Players"
+		{ NUMBER 1 32 }
+		{ "32" }
+	}
+
+	"sv_password"
+	{
+		"#Valve_Server_Password"
+		{ STRING }
+		{ "" }
+	}
+
+	"rcon_password"
+	{
+		"#CSBTE_Server_Password2"
+		{ STRING }
+		{ "" }
+	}
+
+	"mp_timelimit"
+	{
+		"#Cstrike_Timelimit"
+		{ NUMBER 0 -1 }
+		{ "0" }
+	}
+
+	"mp_winlimit"
+	{
+		"#Cstrike_WinLimit"
+		{ NUMBER 0 -1 }
+		{ "0" }
+	}
+
+	"mp_fraglimit"
+	{
+		"#CSBTE_FragLimit"
+		{ NUMBER 0 -1 }
+		{ "0" }
+	}
+
+	"mp_maxrounds"
+	{
+		"#Cstrike_RoundLimit"
+		{ NUMBER 0 -1 }
+		{ "0" }
+	}
+
+	"mp_roundtime"
+	{
+		"#Cstrike_RoundTime"
+		{ NUMBER 0 15 }
+		{ "3" }
+	}
+
+	"mp_freezetime"
+	{
+		"#Cstrike_FreezeTime"
+		{ NUMBER 0 60 }
+		{ "0" }
+	}
+
+	"mp_buytime"
+	{
+		"#Cstrike_BuyTime"
+		{ NUMBER 0.25 -1 }
+		{ "1.5" }
+	}
+
+	"mp_c4timer"
+	{
+		"#CSBTE_ShowC4Timer"
+		{ NUMBER 15 60 }
+		{ "45" }
+	}
+
+	"mp_startmoney"
+	{
+		"#Cstrike_StartMoney"
+		{ NUMBER 800 16000 }
+		{ "32000" }
+	}
+
+	"mp_hostagepenalty"
+	{
+		"#Cstrike_Hostage_Penalty"
+		{ NUMBER 0 -1 }
+		{ "0" }
+	}
+
+	"decalfrequency"
+	{
+		"#CSBTE_DecalFrequency"
+		{ NUMBER 0 60 }
+		{ "30" }
+	}
+
+	"mp_limitteams"
+	{
+		"#CSBTE_MaxTeamDiffierence"
+		{ NUMBER 0 32 }
+		{ "10" }
+	}
+
+	"sv_maxrate"
+	{
+		"#CSBTE_MaxNetworkSend"
+		{ NUMBER 4000 25000 }
+		{ "20000" }
+	}
+
+	"sv_minrate"
+	{
+		"#CSBTE_MinNetworkSend"
+		{ NUMBER 400 2500 }
+		{ "1000" }
+	}
+
+	"mp_forcecamera"
+	{
+		"#Cstrike_Death_Camera_Type"
+		{
+			LIST
+			"#Cstrike_Spectate_Anyone" "0"
+			"#Cstrike_Spectate_Team_Only" "1"
+			"#Cstrike_Only_First_Person" "2"
+		}
+		{ "0" }
+	}
+
+	"sv_voiceenable"
+	{
+		"#CSBTE_EnableVoice"
+		{
+			LIST
+			"#CSO_No" "0"
+			"#CSO_Yes" "1"
+		}
+		{ "1" }
+	}
+
+	"sv_alltalk"
+	{
+		"#CSBTE_VoiceChatOption"
+		{
+			LIST
+			"#CSBTE_VoiceEnableOnlyTeam" "0"
+			"#CSBTE_VoiceEnableOnVigilance" "1"
+		}
+		{ "0" }
+	}
+
+	"sv_voicequality"
+	{
+		"#CSBTE_VoiceChatQuality"
+		{
+			LIST
+			" " "0"
+			"#CSBTE_VoiceChat_VeryLow" "1"
+			"#CSBTE_VoiceChat_Low" "2"
+			"#CSBTE_VoiceChat_Middle" "3"
+			"#CSBTE_VoiceChat_High" "4"
+			"#CSBTE_VoiceChat_VeryHigh" "5"
+		}
+		{ "5" }
+	}
+
+	"mp_logfile"
+	{
+		"#CSBTE_HostLog"
+		{
+			LIST
+			"#CSO_No" "0"
+			"#CSO_Yes" "1"
+		}
+		{ "0" }
+	}
+
+	"mp_logmessages"
+	{
+		"#CSBTE_LogUserChat"
+		{
+			LIST
+			"#CSO_No" "0"
+			"#CSO_Yes" "1"
+		}
+		{ "0" }
+	}
+
+	"mp_logdetail"
+	{
+		"#CSBTE_LogRange"
+		{
+			LIST
+			"#CSO_No" "0"
+			"#CSBTE_LogEnemy" "1"
+			"#CSBTE_LogAlly" "2"
+			"#CSBTE_LogOwner" "3"
+		}
+		{ "0" }
+	}
+
+	"mp_footsteps"
+	{
+		"#CSBTE_FootSteps"
+		{
+			LIST
+			"#CSO_No" "0"
+			"#CSO_Yes" "1"
+		}
+		{ "1" }
+	}
+
+	"mp_flashlight"
+	{
+		"#Cstrike_Allow_Flashlight"
+		{
+			LIST
+			"#CSO_No" "0"
+			"#CSO_Yes" "1"
+		}
+		{ "1" }
+	}
+
+	"allow_spectators"
+	{
+		"#CSBTE_AllowSpectator"
+		{
+			LIST
+			"#CSO_No" "0"
+			"#CSO_Yes" "1"
+		}
+		{ "1" }
+	}
+
+	"mp_fadetoblack"
+	{
+		"#Cstrike_Fade_To_Black"
+		{
+			LIST
+			"#CSO_No" "0"
+			"#CSO_Yes" "1"
+		}
+		{ "0" }
+	}
+
+	"mp_friendlyfire"
+	{
+		"#CSBTE_EnableFriendlyFire"
+		{
+			LIST
+			"#CSO_No" "0"
+			"#CSO_Yes" "1"
+		}
+		{ "0" }
+	}
+
+	"mp_friendly_grenade_damage"
+	{
+		"#CSBTE_EnableFriendlyGrenDmg"
+		{
+			LIST
+			"#CSO_No" "0"
+			"#CSO_Yes" "1"
+		}
+		{ "0" }
+	}
+
+	"mp_falldamage"
+	{
+		"#CSBTE_EnableFallDamage"
+		{
+			LIST
+			"#CSO_No" "0"
+			"#CSO_Yes" "1"
+		}
+		{ "1" }
+	}
+
+	"mp_tkpunish"
+	{
+		"#Cstrike_TK_Punish"
+		{
+			LIST
+			"#CSO_No" "0"
+			"#CSO_Yes" "1"
+		}
+		{ "1" }
+	}
+
+	"mp_autoteambalance"
+	{
+		"#CSBTE_AutoTeamBalance"
+		{
+			LIST
+			"#CSO_No" "0"
+			"#CSO_Yes" "1"
+		}
+		{ "1" }
+	}
+
+	"mp_autokick"
+	{
+		"#Cstrike_AutoKick"
+		{
+			LIST
+			"#CSO_No" "0"
+			"#CSO_Yes" "1"
+		}
+		{ "1" }
+	}
+
+	"sv_allowdownload"
+	{
+		"#CSBTE_Server_AllowDownload"
+		{
+			LIST
+			"#CSO_No" "0"
+			"#CSO_Yes" "1"
+		}
+		{ "1" }
+	}
+
+	"sv_send_resources"
+	{
+		"#CSBTE_Server_AllowSendRc"
+		{
+			LIST
+			"#CSO_No" "0"
+			"#CSO_Yes" "1"
+		}
+		{ "1" }
+	}
+
+	"sv_send_logos"
+	{
+		"#CSBTE_Server_AllowSendLogo"
+		{
+			LIST
+			"#CSO_No" "0"
+			"#CSO_Yes" "1"
+		}
+		{ "1" }
+	}
+
+	"sv_allowupload"
+	{
+		"#CSBTE_Server_AllowUpload"
+		{
+			LIST
+			"#CSO_No" "0"
+			"#CSO_Yes" "1"
+		}
+		{ "0" }
+	}
+
+	"pausable"
+	{
+		"#CSBTE_Pausable"
+		{
+			LIST
+			"#CSO_No" "0"
+			"#CSO_Yes" "1"
+		}
+		{ "0" }
+	}
+
+}
