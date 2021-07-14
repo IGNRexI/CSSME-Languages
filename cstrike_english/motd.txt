@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head><meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+<title>Message of the day</title>
+<style type="text/css">
+body{background-color:#121315;color:#70C5FF;text-align:center;font-size:10pt;font-family:tahoma;}
+h1{color:#4CFF00;font-size:14pt;font-family:verdana;text-align:center;font-weight:normal}
+.white{color:#fff;}
+.cssme{background:#0D0D0D;border:1px solid #1F2223;margin:4px;font-size:10pt;color:#0094FF}
+</style>
+</head>
+<body><div align="center" class="cssme"><center>
+<h1>Counter Strike Strawberry Milk Edition</h1>
+Blog : <a href=">https://cssmekr.blogspot.com/"><span class="white">https://cssmekr.blogspot.com/</span></a><br/>
+Discord : <a href=">https://discord.gg/KBcWMME"><span class="white">https://discord.gg/KBcWMME</span></a><br/><br/>
+<br/><br/> 
+</center></div></body></html>
