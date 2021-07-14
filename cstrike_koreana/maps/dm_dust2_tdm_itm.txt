@@ -1,0 +1,8 @@
+﻿더스트 II(Dust2) - 팀 데스매치 아이템전
+맵 제작: DaveJ (http://www.johnsto.co.uk/)
+텍스처 제작: MacMan (MacManInfi@aol.com)
+맵 수정: Nexon
+
+목표 : 적팀을 사살하여 목표 포인트까지 도달하라!!
+
+팁 : 아이템을 사용하면 적에게 강력한 광역공격 및 특수스킬 사용이 가능합니다.
