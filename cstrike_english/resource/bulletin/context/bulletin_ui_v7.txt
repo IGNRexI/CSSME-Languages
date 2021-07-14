@@ -1,0 +1,17 @@
+<color:255, 255, 255, 225>
+User Interface change announcement
+
+Check the below texts!
+
+<color:40, 155, 175, 255>
+\<Game UI>
+<color:255, 255, 255, 225>
+- You can add 'favorite' weapon in weaponlist editor.
+- You can set 'honor' title and its color in option.
+- Added author texts in Option → Advanced tab
+
+<color:0, 150, 0, 255>
+\<InGame UI>
+<color:255, 255, 255, 225>
+- Chatting reworked.
+- Buy Panel & TeamSuit Panel reworked.

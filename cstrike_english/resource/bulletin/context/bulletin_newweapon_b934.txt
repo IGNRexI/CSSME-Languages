@@ -1,0 +1,45 @@
+<color:255, 255, 255, 225>
+Added New Weapons
+
+Added 2021 epic weapon 'Divine Blaster' and others!
+
+<color:240, 0, 200, 225>
+\<Epic Weapon>
+<color:255, 255, 255, 225>
+
+Divine Blaster
+<image:gfx/vgui/winggun, 0, 0, 235, 81, 1>
+
+Thunder Force
+<image:gfx/vgui/crossbowex21, 0, 0, 235, 81, 1>
+
+<color:255, 205, 20, 225>
+\<Transcendence Weapon>
+<color:255, 255, 255, 225>
+
+Spell Lance Scarlet Rose
+<image:gfx/vgui/lance, 0, 0, 235, 81, 1>
+
+Negev NG-7 Ajax
+<image:gfx/vgui/buffng7, 0, 0, 235, 81, 1>
+
+<color:255, 110, 110, 225>
+\<Unique Weapon>
+<color:255, 255, 255, 225>
+
+Miracle Prism Sword
+<image:gfx/vgui/magicknife, 0, 0, 235, 81, 1>
+
+<color:0, 180, 220, 225>
+\<Season 7>
+<color:255, 255, 255, 225>
+
+Taimat Mk-4
+<image:gfx/vgui/y20s3plasmaexd, 0, 0, 235, 81, 1>
+
+Taimat Mk-3
+<image:gfx/vgui/y20s3plasmaexc, 0, 0, 235, 81, 1>
+Plasma Rifle Mk-2
+<image:gfx/vgui/y20s3plasmaexb, 0, 0, 235, 81, 1>
+Plasma Rifle Mk-1
+<image:gfx/vgui/y20s3plasmaexa, 0, 0, 235, 81, 1>

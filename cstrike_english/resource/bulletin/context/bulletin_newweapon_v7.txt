@@ -1,0 +1,98 @@
+<color:255, 255, 255, 225>
+Added New Weapons
+
+Added 2020 Epic Weapon, Heaven Splitter!
+And There is new transcendence weapons with Season weapons.
+
+<color:240, 0, 200, 225>
+\<Epic Weapon>
+<color:255, 255, 255, 225>
+
+Heaven Splitter
+<image:gfx/vgui/wondercannon, 0, 0, 235, 81, 1>
+
+<color:255, 205, 20, 225>
+\<Transcendence Weapon>
+<color:255, 255, 255, 225>
+
+X-TRACKER
+<image:gfx/vgui/lockongun, 0, 0, 235, 81, 1>
+
+HellHound
+<image:gfx/vgui/patroldrone, 0, 0, 87, 81, 1>
+
+<color:255, 110, 110, 225>
+\<Unique Weapon>
+<color:255, 255, 255, 225>
+
+Shining Heart Rod
+<image:gfx/vgui/magicmg, 0, 0, 235, 81, 1>
+
+Starlight Rolling Shooter
+<image:gfx/vgui/magicsg, 0, 0, 235, 81, 1>
+
+<color:0, 180, 220, 225>
+\<Season 3>
+<color:255, 255, 255, 225>
+
+Big Shark
+<image:gfx/vgui/m3dragonm, 0, 0, 235, 81, 1>
+
+PP-19 Bizon Splash
+<image:gfx/vgui/y19s3bizon, 0, 0, 235, 81, 1>
+Coil Machine Gun Splash
+<image:gfx/vgui/y19s3coilmg, 0, 0, 235, 81, 1>
+GROZA Splash
+<image:gfx/vgui/y19s3groza, 0, 0, 235, 81, 1>
+M79 Saw-Off Splash
+<image:gfx/vgui/y19s3m79, 0, 0, 235, 81, 1>
+M200 Splash
+<image:gfx/vgui/y19s3m200, 0, 0, 235, 81, 1>
+RPG7 Splash
+<image:gfx/vgui/y19s3rpg7, 0, 0, 235, 81, 1>
+UTS15 Splash
+<image:gfx/vgui/y19s3uts15, 0, 0, 235, 81, 1>
+
+<color:0, 180, 220, 225>
+\<Season 4>
+<color:255, 255, 255, 225>
+
+Ghost Knight
+<image:gfx/vgui/m95tigerm, 0, 0, 235, 81, 1>
+
+Dual Kriss Halloween
+<image:gfx/vgui/y19s4dualkriss, 0, 0, 235, 81, 1>
+MK48 Halloween
+<image:gfx/vgui/y19s4mk48, 0, 0, 235, 81, 1>
+PSG-1 Halloween
+<image:gfx/vgui/y19s4psg1, 0, 0, 235, 81, 1>
+Rail Cannon Halloween
+<image:gfx/vgui/y19s4railcannon, 0, 0, 235, 81, 1>
+TAR-21 Halloween
+<image:gfx/vgui/y19s4tar21, 0, 0, 235, 81, 1>
+AutoMag-V Halloween
+<image:gfx/vgui/y19s4automag, 0, 0, 235, 81, 1>
+Hammer Halloween
+<image:gfx/vgui/y19s4hammer, 0, 0, 235, 81, 1>
+
+<color:0, 180, 220, 225>
+\<Season 5>
+<color:255, 255, 255, 225>
+
+Blistering Bolt Repeater
+<image:gfx/vgui/sgmissilem, 0, 0, 235, 81, 1>
+
+Reflex Bow
+<image:gfx/vgui/y20s1bow, 0, 0, 235, 81, 1>
+Timed Bomb
+<image:gfx/vgui/y20s1grenade, 0, 0, 96, 81, 1>
+Hwando
+<image:gfx/vgui/y20s1sword, 0, 0, 235, 81, 1>
+Scythe
+<image:gfx/vgui/y20s1thanatos9, 0, 0, 235, 81, 1>
+Arquebus
+<image:gfx/vgui/y20s1m1garand, 0, 0, 235, 81, 1>
+Moon Glaive
+<image:gfx/vgui/y20s1dragonsword, 0, 0, 235, 81, 1>
+Matchlock Pistol
+<image:gfx/vgui/y20s1musket, 0, 0, 235, 81, 1>

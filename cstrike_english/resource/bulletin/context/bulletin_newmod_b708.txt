@@ -1,0 +1,15 @@
+<color:255, 255, 255, 225>
+New Game Mod
+
+Added new game mod, 'Random Weapon Zombie Hero!'
+Enjoy zombie hero with randomly given weapons!
+
+You can get random weapons by getting Supply box,
+and you can get at least Transcendence weapons by getting Luxury Supply box!
+
+<color:255, 100, 100, 225>
+\<New Mod>
+<color:255, 255, 255, 225>
+
+Random Weapon Zombie Hero
+<image:resource/icon/zombi3_lobbysmall, 0, 0, 226, 154, 0>

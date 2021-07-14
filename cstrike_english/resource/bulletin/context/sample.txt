@@ -1,0 +1,32 @@
+#This is sample document of bulletin.
+
+you can set function of text by using <>.
+There is two option in this.
+
+1. color
+you can set color by this
+
+example:
+//<color:r, g, b, a, f>
+variable descriptoin: r : color index of red
+variable descriptoin: g : color index of green
+variable descriptoin: b : color index of blue
+variable descriptoin: a : color index of alpha
+variable descriptoin: f : using frame if f is 1. 0 is disable.
+
+2. image
+you can set image by this.
+
+example:
+//<image:name, x, y, w, t>
+variable descriptoin: name : image name.
+variable descriptoin: x : additional xpos offset.
+variable descriptoin: y : additional ypos offset.
+variable descriptoin: w : wide of image
+variable descriptoin: t : tall of image
+
+note: position of image is automatically set next to text.
+
+ex.
+you can use localize by using '#' of first (ex: #CSO_Cannon)
+you can use < by using \ on first. (ex: \<Sample> -> print as "<Sample>")

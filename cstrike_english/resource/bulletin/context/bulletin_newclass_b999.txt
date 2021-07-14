@@ -1,0 +1,14 @@
+<color:255, 255, 255, 225>
+Added New character
+
+Added season 9 characters!
+Each of them has their unique voice and special feature on their transcendence weapons!
+
+\<Season 9>
+
+<color:126, 210, 255, 225>
+High Elf Natasha(CT)
+<image:gfx/vgui/basket/buffclass21s1ct, 0, 0, 235, 81, 0>
+<color:255, 126, 126, 225>
+Dragon Knight Kyrix(TR)
+<image:gfx/vgui/basket/buffclass21s1tr, 0, 0, 235, 81, 0>

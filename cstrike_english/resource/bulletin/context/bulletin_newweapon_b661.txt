@@ -1,0 +1,45 @@
+<color:255, 255, 255, 225>
+Added New Weapons
+
+Added first epic weapon 'Void Avenger' and transcended weapons, season weapons!
+
+<color:100, 255, 255, 225>
+\<Custom Weapon>
+<color:255, 255, 255, 225>
+
+Laser-Guided Missile
+<image:gfx/vgui/laserguide, 0, 0, 235, 81, 1>
+
+<color:240, 0, 200, 225>
+\<Epic Weapon>
+<color:255, 255, 255, 225>
+
+Void Avenger
+<image:gfx/vgui/voidpistol, 0, 0, 235, 81, 1>
+
+<color:255, 205, 20, 225>
+\<Transcendence Weapon>
+<color:255, 255, 255, 225>
+
+Inferno Cannon
+<image:gfx/vgui/gatlingex, 0, 0, 235, 81, 1>
+
+Lighting Fury
+<image:gfx/vgui/jetgun, 0, 0, 235, 81, 1>
+
+Psyshic Harmonium
+<image:gfx/vgui/pianogun, 0, 0, 235, 81, 1>
+
+<color:0, 180, 220, 225>
+\<Season 6>
+<color:255, 255, 255, 225>
+
+SCAR OZ-D
+<image:gfx/vgui/y20s2scard, 0, 0, 235, 81, 1>
+
+SCAR OZ-C
+<image:gfx/vgui/y20s2scarc, 0, 0, 235, 81, 1>
+SCAR OZ-B
+<image:gfx/vgui/y20s2scarb, 0, 0, 235, 81, 1>
+SCAR OZ-A
+<image:gfx/vgui/y20s2scara, 0, 0, 235, 81, 1>

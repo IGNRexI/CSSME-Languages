@@ -1,0 +1,20 @@
+<color:100, 100, 255, 255>
+\<Fixed Bug List>
+<color:255, 255, 255, 255>
+- Fixed ThunderBolt's scope
+- Fixed Dual Beretta Gunsligner's animation error
+- Fixed Python Desperado's animation error
+- Abnormal Character animation
+- Muzzleflash Animation error
+- Unicode input error
+- Unable to remove after switching window in vgui
+- Crashs when draw model with more than 4 attachments
+- Showing mouse pointer above windows 8
+- Miscount weapon number in weaponlist editor
+- Texture Overflow: GL_MAXTEXURES
+- Visible mouse pointer in game
+
+<color:200, 100, 100, 255>
+\<In fixing>
+<color:255, 255, 255, 255>
+- Game crash on loading

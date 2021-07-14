@@ -1,0 +1,26 @@
+<color:255, 255, 255, 225>
+When you playing this game, you can met abnormal game operate, crash.
+
+When crash happened, please follow this tips for fix that bug next version.
+
+<color:0, 150, 255, 225>
+1. On Bugreport Frame
+<color:255, 255, 255, 225>
+<image:resource/bulletin/context/bugreport_3, 0, 0, 250, 119, 0>
+You should check the 'Save Bug Report(A)' and press 'Confirm' to save it.
+
+<color:0, 150, 255, 225>
+2. Find bugreport file
+<color:255, 255, 255, 225>
+<image:resource/bulletin/context/bugreport_2, 0, 0, 250, 51, 0>
+If you move to Base game folder, you can find mpdp file starting with 'Steam_...' -.
+That is bugreport file.
+
+<color:0, 150, 255, 225>
+3. Send to developer.
+<color:255, 255, 255, 225>
+Developer E-Mail is
+2937752180@qq.com
+csbteoversea@gmail.com
+nekobte@qq.com
+If you send that bugreport to this email, We can analyze what made game crashed.

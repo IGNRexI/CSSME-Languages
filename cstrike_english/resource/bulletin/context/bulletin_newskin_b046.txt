@@ -1,0 +1,206 @@
+<color:255, 255, 255, 225>
+Added New Weapon Skin
+
+Total 64 skins add for special weapon theme, and season theme!
+
+<color:0, 180, 220, 225>
+\<Exclusive Weapon Paint>
+<color:255, 255, 255, 255>
+
+Weapon Paint - Planet
+<image:gfx/vgui/basket/weaponpaintbowonly, 0, 0, 235, 81, 1>
+<color:255, 205, 20, 225>
+Applied to: Compound Bow
+<color:255, 255, 255, 255>
+
+Weapon Paint - Race
+<image:gfx/vgui/basket/weaponpaintinfinityex2only, 0, 0, 235, 81, 1>
+<color:255, 205, 20, 225>
+Applied to: Dual Infinity Final
+<color:255, 255, 255, 255>
+
+Weapon Paint - Aqua
+<image:gfx/vgui/basket/weaponpaintplasmagunonly, 0, 0, 235, 81, 1>
+<color:255, 205, 20, 225>
+Applied to: Plasma Gun
+<color:255, 255, 255, 255>
+
+Weapon Paint - Leaf green
+<image:gfx/vgui/basket/weaponpaintsfsniperonly, 0, 0, 235, 81, 1>
+<color:255, 205, 20, 225>
+Applied to: Thunderbolt
+<color:255, 255, 255, 255>
+
+Weapon Paint - Violet
+<image:gfx/vgui/basket/weaponpaintsprifleonly, 0, 0, 235, 81, 1>
+<color:255, 205, 20, 225>
+Applied to: Savery
+<color:255, 255, 255, 255>
+
+Weapon Paint - Snake
+<image:gfx/vgui/basket/weaponpaintlaserminigunonly, 0, 0, 235, 81, 1>
+<color:255, 205, 20, 225>
+Applied to: Laser Minigun
+<color:255, 255, 255, 255>
+
+Weapon Paint - Honey
+<image:gfx/vgui/basket/weaponpaintm950seonly, 0, 0, 235, 81, 1>
+<color:255, 205, 20, 225>
+Applied to: Attack M950
+<color:255, 255, 255, 255>
+
+Weapon Paint - Plastic Model
+<image:gfx/vgui/basket/weaponpaintdestroyeronly, 0, 0, 235, 81, 1>
+<color:255, 205, 20, 225>
+Applied to: DESTROYER
+<color:255, 255, 255, 255>
+
+Leather Weapon Paint
+<image:gfx/vgui/basket/weaponpaintbnw, 0, 0, 235, 81, 1>
+<color:255, 205, 20, 225>
+Applied to: Dual Sword Infernal Hunter
+<color:255, 255, 255, 255>
+
+Mnemonic Weapon Paint
+<image:gfx/vgui/basket/weaponpaintreaper, 0, 0, 235, 81, 1>
+<color:255, 205, 20, 225>
+Applied to: Hunter-Killer X-90
+<color:255, 255, 255, 255>
+
+Sigma Weapon Paint
+<image:gfx/vgui/basket/weaponpaintsigma, 0, 0, 235, 81, 1>
+<color:255, 205, 20, 225>
+Applied to: Gungnir
+<color:255, 255, 255, 255>
+
+<color:0, 180, 220, 225>
+\<Contest Weapon Paint>
+<color:255, 255, 255, 255>
+
+KR Weapon Paint Design
+<image:gfx/vgui/basket/weaponpaintnataknifekr, 0, 0, 235, 81, 1>
+<color:255, 205, 20, 225>
+Applied to: Nata Knife
+<color:255, 255, 255, 255>
+
+JP Weapon Paint Design
+<image:gfx/vgui/basket/weaponpaintpetrolboomerjp, 0, 0, 235, 81, 1>
+<color:255, 205, 20, 225>
+Applied to: Petrol Boomer
+<color:255, 255, 255, 255>
+
+NA Weapon Paint Design
+<image:gfx/vgui/basket/weaponpaintsfpistolna, 0, 0, 235, 81, 1>
+<color:255, 205, 20, 225>
+Applied to: Cyclone
+<color:255, 255, 255, 255>
+
+TW Weapon Paint Design
+<image:gfx/vgui/basket/weaponpaintchainsawmtw, 0, 0, 235, 81, 1>
+<color:255, 205, 20, 225>
+Applied to: Slasher
+<color:255, 255, 255, 255>
+
+CN Weapon Paint Design
+<image:gfx/vgui/basket/weaponpaintairburstercn, 0, 0, 235, 81, 1>
+<color:255, 205, 20, 225>
+Applied to: Air Buster
+<color:255, 255, 255, 255>
+
+2020 KR Weapon Paint
+<image:gfx/vgui/basket/weaponpaint20kr, 0, 0, 235, 81, 1>
+<color:255, 205, 20, 225>
+Applied to: Dual Beretta Gunslinger
+<color:255, 255, 255, 255>
+
+2020 TW Weapon Paint
+<image:gfx/vgui/basket/weaponpaint20tw, 0, 0, 235, 81, 1>
+<color:255, 205, 20, 225>
+Applied to: Gungnir
+<color:255, 255, 255, 255>
+
+2020 NA Weapon Paint
+<image:gfx/vgui/basket/weaponpaint20na, 0, 0, 235, 81, 1>
+<color:255, 205, 20, 225>
+Applied to: Dread Nova
+<color:255, 255, 255, 255>
+
+2020 CN Weapon Paint
+<image:gfx/vgui/basket/weaponpaint20cn, 0, 0, 235, 81, 1>
+<color:255, 205, 20, 225>
+Applied to: Dual Beretta Gunslinger
+<color:255, 255, 255, 255>
+
+<color:0, 180, 220, 225>
+\<Season 6>
+<color:255, 255, 255, 255>
+
+Wood Weapon Paint
+<image:gfx/vgui/basket/weaponpaintwood, 0, 0, 235, 81, 1>
+<color:255, 205, 20, 225>
+Applied to: Thunder Ghost Walker, M3 Black Dragon, Desert Eagle 50C, M4A1, MP5
+<color:255, 255, 255, 255>
+
+Tin Weapon Paint
+<image:gfx/vgui/basket/weaponpaintiron, 0, 0, 235, 81, 1>
+<color:255, 205, 20, 225>
+Applied to: M95 White Tiger, M249 Phoenix, X-TRACKER, AWP, AK
+<color:255, 255, 255, 255>
+
+<color:0, 180, 220, 225>
+\<Season 7>
+<color:255, 255, 255, 255>
+
+Cyber Neon Weapon Paint
+<image:gfx/vgui/basket/weaponpaintneon, 0, 0, 235, 81, 1>
+<color:255, 205, 20, 225>
+Applied to: Red Dragon Cannon, Broad Divine, Magnum Drill, SVD, M950
+<color:255, 255, 255, 255>
+
+Psychedelic Weapon Paint
+<image:gfx/vgui/basket/weaponpaintpsychedelic, 0, 0, 235, 81, 1>
+<color:255, 205, 20, 225>
+Applied to: Hunter-Killer X-90, M32 Venom, Nata Knife, XM1014, SG550 Commando
+<color:255, 255, 255, 255>
+
+<color:0, 180, 220, 225>
+\<Season 8>
+<color:255, 255, 255, 255>
+
+Snowflake Weapon Paint
+<image:gfx/vgui/basket/weaponpaintflake, 0, 0, 235, 81, 1>
+<color:255, 205, 20, 225>
+Applied to: Dual Sword Phantom Slayer, BOUNCER, AUG Guardian, FAMAS, Plasma Gun
+<color:255, 255, 255, 255>
+
+Cracked Weapon Paint
+<image:gfx/vgui/basket/weaponpaintcracked, 0, 0, 235, 81, 1>
+<color:255, 205, 20, 225>
+Applied to: Hunter-Killer X-90, Holy Sword Divine Order, Python Desperado, Jackhammer, MP5
+<color:255, 255, 255, 255>
+
+<color:0, 180, 220, 225>
+\<Season 9>
+<color:255, 255, 255, 255>
+
+Dragon Knight Weapon Paint
+<image:gfx/vgui/basket/weaponpaintdknight, 0, 0, 235, 81, 1>
+<color:255, 205, 20, 225>
+Applied to: Air Buster, Desert Eagle Crimson Hunter, Warhammer Storm Giant, Rail Cannon, SG550 Commando
+<color:255, 255, 255, 255>
+
+High Elf Weapon Paint
+<image:gfx/vgui/basket/weaponpainthighelf, 0, 0, 235, 81, 1>
+<color:255, 205, 20, 225>
+Applied to: Spell Lance Scarlet Rose, Hunter-Killer X-12, Vendetta, Broad Divine, Desert Eagle 50C
+<color:255, 255, 255, 255>
+
+<color:0, 180, 220, 225>
+\<Others>
+<color:255, 255, 255, 255>
+
+Divine Weapon Paint
+<image:gfx/vgui/basket/weaponpaintchn12th, 0, 0, 235, 81, 1>
+<color:255, 205, 20, 225>
+Applied to: Hunter-Killer X-12, USAS-12, KSG-12, SPAS-12
+<color:255, 225, 225, 225>

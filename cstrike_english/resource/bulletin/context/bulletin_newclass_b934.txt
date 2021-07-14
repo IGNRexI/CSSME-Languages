@@ -1,0 +1,24 @@
+<color:255, 255, 255, 225>
+Added New character
+
+Added season 7 and 8 characters!
+Each of them has their unique voice and special feature on their transcendence weapons!
+
+\<Season 7>
+
+<color:126, 210, 255, 225>
+Super Agent Criss(CT)
+<image:gfx/vgui/basket/buffclass20s3ct, 0, 0, 235, 81, 0>
+<color:255, 126, 126, 225>
+Boss David Black(TR)
+<image:gfx/vgui/basket/buffclass20s3tr, 0, 0, 235, 81, 0>
+
+<color:255, 255, 255, 225>
+\<Season 8>
+
+<color:126, 210, 255, 225>
+Leader Soi(CT)
+<image:gfx/vgui/basket/buffclass20s4ct, 0, 0, 235, 81, 0>
+<color:255, 126, 126, 225>
+Super Solder Jennifer(TR)
+<image:gfx/vgui/basket/buffclass20s4tr, 0, 0, 235, 81, 0>

@@ -1,0 +1,12 @@
+<color:255, 255, 255, 225>
+User Interface update announcement
+
+<color:40, 155, 175, 255>
+\<Game UI>
+<color:255, 255, 255, 225>
+- Unified WeaponList Editor, WeaponData Editor as 'Inventory.'
+- Added quick menu (TDM, Zombie Hero) edit menu on Invertory.
+- Added purchase edit on WpnListEditor.
+- Added weapon description(+grade) on WpnListEditor.
+- Added weapon list on WpnDataEditor.
+- Added category(pistol, rifle, etc) on WpnDataEditor.

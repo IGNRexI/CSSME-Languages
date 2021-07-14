@@ -1,0 +1,15 @@
+<color:255, 255, 255, 225>
+User Interface Update
+
+Options next to have been changed!
+
+<color:40, 155, 175, 255>
+\<GameUI>
+<color:255, 255, 255, 225>
+- Player name setting aparted to other window.
+- You can change damage visualization in option.
+
+<color:0, 150, 0, 255>
+\<ClientUI>
+<color:255, 255, 255, 225>
+- Visualized damage in some modes.

@@ -1,0 +1,11 @@
+<color:255, 255, 255, 225>
+New zombie add announcement
+
+Added Zombie 'Aksha!' He is middle-range check zombie having skill defense and shoot, and recover
+
+<color:0, 180, 220, 225>
+\<New Zombie>
+
+<color:255, 255, 255, 225>
+Aksha
+<image:gfx/vgui/aksha, 0, 0, 235, 81, 0>

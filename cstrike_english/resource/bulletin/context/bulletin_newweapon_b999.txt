@@ -1,0 +1,38 @@
+<color:255, 255, 255, 225>
+Added New Weapons
+
+Added Ex-epic weapon 'Blazenova' and transcended weapons, season weapons!
+
+<color:240, 0, 200, 225>
+\<Epic Weapon>
+<color:255, 255, 255, 225>
+
+Blazenova
+<image:gfx/vgui/summonknifeex, 0, 0, 235, 81, 1>
+
+<color:255, 205, 20, 225>
+\<Transcendence Weapon>
+<color:255, 255, 255, 225>
+
+Devastator
+<image:gfx/vgui/mgsm, 0, 0, 235, 81, 1>
+
+Satellite Mine
+<image:gfx/vgui/sbmine, 0, 0, 130, 81, 1>
+
+Eternity Laser Fist
+<image:gfx/vgui/laserfistex, 0, 0, 235, 81, 1>
+
+<color:0, 180, 220, 225>
+\<Season 8>
+<color:255, 255, 255, 225>
+
+Bear Fury Mk. 3
+<image:gfx/vgui/y21s1jetgunmd, 0, 0, 235, 81, 1>
+
+Bear Fury Mk. 2
+<image:gfx/vgui/y21s1jetgunmc, 0, 0, 235, 81, 1>
+Bear Fury Mk. 1
+<image:gfx/vgui/y21s1jetgunmb, 0, 0, 235, 81, 1>
+Bear Buster
+<image:gfx/vgui/y21s1jetgunma, 0, 0, 235, 81, 1>
