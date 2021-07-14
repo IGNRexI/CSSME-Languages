@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head><meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-<title>Message of the day</title>
+<title>Counter Strike Strawberry Milk Edition</title>
 <style type="text/css">
 body{background-color:#121315;color:#70C5FF;text-align:center;font-size:10pt;font-family:tahoma;}
 h1{color:#4CFF00;font-size:14pt;font-family:verdana;text-align:center;font-weight:normal}
