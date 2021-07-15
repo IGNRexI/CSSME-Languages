@@ -1,0 +1,1732 @@
+//----------------------------------------------------------------------------
+// BotProfile.db
+// Author: Michael S. Booth, Turtle Rock Studios (www.turtlerockstudios.com)
+//
+// This database defines bot "personalities". 
+// Feel free to edit it and define your own bots.
+//
+
+
+//----------------------------------------------------------------------------
+
+//
+// All profiles begin with this data and overwrite their own
+//
+Default
+	Skill = 50
+	Aggression = 50
+	ReactionTime = 0.3
+	AttackDelay = 0
+	Teamwork = 75
+	WeaponPreference = none
+	Cost = 0
+	Difficulty = NORMAL
+	VoicePitch = 100
+	Skin = 0
+End
+
+//----------------------------------------------------------------------------
+
+//
+// These templates inherit from Default and override with their values
+// The name of the template defines a type that is used by individual bot profiles
+//
+
+// weapon preference templates
+Template Rifle
+	WeaponPreference = m4a1
+	WeaponPreference = ak47
+	WeaponPreference = famas
+	WeaponPreference = galil
+	WeaponPreference = mp5
+End
+
+Template RifleT
+	WeaponPreference = ak47
+	WeaponPreference = m4a1
+	WeaponPreference = galil
+	WeaponPreference = famas
+	WeaponPreference = mp5
+End
+
+Template Punch
+	WeaponPreference = aug
+	WeaponPreference = sg552
+	WeaponPreference = famas
+	WeaponPreference = galil
+	WeaponPreference = mp5
+End
+
+Template PunchT
+	WeaponPreference = aug
+	WeaponPreference = sg552
+	WeaponPreference = famas
+	WeaponPreference = galil
+	WeaponPreference = mp5
+End
+
+Template Sniper
+	WeaponPreference = awp
+	WeaponPreference = sg550
+	WeaponPreference = g3sg1
+	WeaponPreference = scout
+	WeaponPreference = famas
+	WeaponPreference = galil
+	WeaponPreference = mp5
+End
+
+Template Power
+	WeaponPreference = m249
+	WeaponPreference = xm1014
+	WeaponPreference = m3
+	WeaponPreference = famas
+	WeaponPreference = galil
+	WeaponPreference = mp5
+End
+
+Template Shotgun
+	WeaponPreference = xm1014
+	WeaponPreference = m3
+	WeaponPreference = famas
+	WeaponPreference = galil
+	WeaponPreference = mp5
+End
+
+Template Spray
+	WeaponPreference = p90
+	WeaponPreference = tmp
+	WeaponPreference = mac10
+	WeaponPreference = mp5
+End
+
+
+// skill templates
+Template Elite
+	Skill = 100
+	Aggression = 100
+	ReactionTime = 0.2
+	Cost = 4
+	Difficulty = ELITE
+	VoicePitch = 85
+End
+
+Template Expert
+	Skill = 90
+	Aggression = 90
+	ReactionTime = 0.2
+	Cost = 4
+	Difficulty = EXPERT
+	VoicePitch = 88
+End
+
+Template VeryHard
+	Skill = 80
+	Aggression = 80
+	ReactionTime = 0.25
+	Cost = 3
+	Difficulty = VERYHARD
+	VoicePitch = 92
+End
+
+Template Hard
+	Skill = 75
+	Aggression = 75
+	ReactionTime = 0.25
+	Cost = 3
+	Difficulty = HARD
+	VoicePitch = 94
+End
+
+Template Tough
+	Skill = 60
+	Aggression = 60
+	ReactionTime = 0.3
+	AttackDelay = 0.35
+	Cost = 2
+	Difficulty = TOUGH
+	VoicePitch = 96
+End
+
+Template Normal
+	Skill = 50
+	Aggression = 50
+	ReactionTime = 0.4
+	AttackDelay = 0.7
+	Cost = 2
+	Difficulty = NORMAL
+End
+
+Template Fair
+	Skill = 25
+	Aggression = 30
+	ReactionTime = 0.4
+	AttackDelay = 1.0
+	Cost = 1
+	Difficulty = FAIR
+	VoicePitch = 105
+End
+
+Template Easy
+	Skill = 0
+	Aggression = 20
+	ReactionTime = 0.5
+	AttackDelay = 1.5
+	Cost = 1
+	Difficulty = EASY
+	VoicePitch = 110
+End
+
+//---------------------------------------------------------------------------- Elite
+// These are the individual bot profiles, which inherit first from 
+// Default and then the specified Template(s), in order
+//
+		
+Elite+Power "次一念著倒"
+	VoicePitch = 100	
+End		
+		
+Elite+Sniper "台中金城武"
+	VoicePitch = 110	
+End		
+		
+Elite+Rifle "說好不打臉"
+	VoicePitch = 120	
+End		
+		
+Elite+RifleT "我很會射"
+	VoicePitch = 99	
+End		
+		
+Elite+Shotgun "蒙奇D下來"
+	VoicePitch = 120	
+End		
+		
+Elite+PunchT "沒有人"
+	VoicePitch = 125	
+End		
+		
+Elite+Spray "龍五快撿槍"
+	VoicePitch = 110	
+End		
+		
+Elite "我要打十個"
+	VoicePitch = 100	
+End		
+		
+Elite "奶油血滴子"
+	VoicePitch = 112	
+End		
+		
+Elite "巴瑞歐"
+	VoicePitch = 121	
+End		
+		
+Elite "差一元買多多"
+	VoicePitch = 99	
+End		
+		
+Elite "請問你吃素嗎"
+	VoicePitch = 119	
+End			
+		
+Elite "媽我上電視了"
+	VoicePitch = 116	
+End		
+		
+Elite "小心我拿折凳"
+	VoicePitch = 115	
+End		
+		
+Elite "敵會跪"
+	VoicePitch = 114	
+End		
+		
+Elite "隨便玩玩la"
+	VoicePitch = 112	
+End		
+		
+Elite "剛好五個字"
+	VoicePitch = 111	
+End		
+		
+Elite "聞一聞精神百倍"
+	VoicePitch = 110	
+End		
+		
+Elite "抖一抖活絡筋骨"
+	VoicePitch = 109	
+End		
+		
+Elite "JayLess傑少"
+	VoicePitch = 108	
+End		
+		
+Elite "SoulEater噬魂"
+	VoicePitch = 122	
+End		
+		
+Elite "ThuNDeR轟雷"
+	VoicePitch = 120	
+End		
+		
+Elite "克里斯多福氣"
+	VoicePitch = 125	
+End		
+		
+Elite "小檸檬c"
+	VoicePitch = 92	
+End		
+		
+Elite "閃開讓專業的來"
+	VoicePitch = 100	
+End		
+		
+Elite "少林是18同人"
+	VoicePitch = 102	
+End		
+		
+Elite "這你也懂"
+	VoicePitch = 104	
+End		
+		
+Elite "略懂略懂"
+	VoicePitch = 108	
+End		
+		
+Elite "萌萌站起來"
+	VoicePitch = 95	
+End		
+		
+Elite "我來吧讓一讓"
+	VoicePitch = 100	
+End		
+		
+Elite "各位姑嫂玩"
+	VoicePitch = 120	
+End		
+		
+Elite "我很醜但我神射手"
+	VoicePitch = 112	
+End		
+		
+Elite "其實我是BOT"
+	VoicePitch = 99	
+End		
+		
+Elite "阿霞在天上飛"
+	VoicePitch = 110	
+End		
+
+Elite	"台北天王星"
+	VoicePitch = 99
+End	
+
+Elite	"其實我是BOT2"
+	VoicePitch = 93
+End		
+
+Elite	"其實我是BOT3"
+	VoicePitch = 93
+End		
+
+Elite	"請你吃86"
+	VoicePitch = 93
+End		
+
+Elite	"西子灣扛霸子"
+	VoicePitch = 98
+End	
+	
+Elite	"1234毀滅戰士"
+	VoicePitch = 86
+End	
+
+Elite	"警察不准動"
+	VoicePitch = 96	
+End		
+
+Elite	 "你看不見我"
+	VoicePitch = 89	
+End	
+
+Elite	 "精華都在這裡"	
+	VoicePitch = 93	
+End	
+		
+Elite "歐巴給你八蕊"
+	VoicePitch = 104	
+End	
+
+Elite "謝謝你9487"	
+	VoicePitch = 113	
+End	
+
+Elite "低調點"
+	VoicePitch = 90
+End	
+
+Elite "波霸奶茶半糖去冰"
+	VoicePitch = 100	
+End		
+
+Elite "哥就是神"
+	VoicePitch = 102
+End		
+
+//----------------------------------------	Expert
+		
+Expert+Power "次一念著倒"
+	VoicePitch = 100	
+End		
+		
+Expert+Sniper "台中金城武"
+	VoicePitch = 110	
+End		
+		
+Expert+Rifle "說好不打臉"
+	VoicePitch = 120	
+End		
+		
+Expert+RifleT "我很會射"
+	VoicePitch = 99	
+End		
+		
+Expert+Shotgun "蒙奇D下來"
+	VoicePitch = 120	
+End		
+		
+Expert+PunchT "沒有人"
+	VoicePitch = 125	
+End		
+		
+Expert "龍五快撿槍"
+	VoicePitch = 110	
+End		
+		
+Expert "我要打十個"
+	VoicePitch = 100	
+End		
+		
+Expert "奶油血滴子"
+	VoicePitch = 112	
+End		
+		
+Expert "巴瑞歐"
+	VoicePitch = 121	
+End		
+		
+Expert "差一元買多多"
+	VoicePitch = 99	
+End		
+		
+Expert "請問你吃素嗎"
+	VoicePitch = 119	
+End			
+		
+Expert "媽我上電視了"
+	VoicePitch = 116	
+End		
+		
+Expert "小心我拿折凳"
+	VoicePitch = 115	
+End		
+		
+Expert "敵會跪"
+	VoicePitch = 114	
+End		
+		
+Expert "隨便玩玩la"
+	VoicePitch = 112	
+End		
+		
+Expert "剛好五個字"
+	VoicePitch = 111	
+End		
+		
+Expert "聞一聞精神百倍"
+	VoicePitch = 110	
+End		
+		
+Expert "抖一抖活絡筋骨"
+	VoicePitch = 109	
+End		
+		
+Expert "JayLess傑少"
+	VoicePitch = 108	
+End		
+		
+Expert "SoulEater噬魂"
+	VoicePitch = 122	
+End		
+		
+Expert "ThuNDeR轟雷"
+	VoicePitch = 120	
+End		
+		
+Expert "克里斯多福氣"
+	VoicePitch = 125	
+End		
+		
+Expert "小檸檬c"
+	VoicePitch = 92	
+End		
+		
+Expert "閃開讓專業的來"
+	VoicePitch = 100	
+End		
+		
+Expert "少林是18同人"
+	VoicePitch = 102	
+End		
+		
+Expert "這你也懂"
+	VoicePitch = 104	
+End		
+		
+Expert "略懂略懂"
+	VoicePitch = 108	
+End		
+		
+Expert "萌萌站起來"
+	VoicePitch = 95	
+End		
+		
+Expert "我來吧讓一讓"
+	VoicePitch = 100	
+End		
+		
+Expert "各位姑嫂玩"
+	VoicePitch = 120	
+End		
+		
+Expert "我很醜但我神射手"
+	VoicePitch = 112	
+End		
+		
+Expert "其實我是BOT"
+	VoicePitch = 99	
+End		
+		
+Expert "阿霞在天上飛"
+	VoicePitch = 110	
+End		
+
+Expert	"台北天王星"
+	VoicePitch = 99
+End	
+
+Expert	"其實我是BOT2"
+	VoicePitch = 93
+End		
+
+Expert	"其實我是BOT3"
+	VoicePitch = 93
+End		
+
+Expert	"請你吃86"
+	VoicePitch = 93
+End		
+
+Expert	"西子灣扛霸子"
+	VoicePitch = 98
+End	
+	
+Expert	"1234毀滅戰士"
+	VoicePitch = 86
+End	
+
+Expert	"警察不准動"
+	VoicePitch = 96	
+End		
+
+Expert	 "你看不見我"
+	VoicePitch = 89	
+End	
+
+Expert	 "精華都在這裡"	
+	VoicePitch = 93	
+End	
+		
+Expert "歐巴給你八蕊"
+	VoicePitch = 104	
+End	
+
+Expert "謝謝你9487"	
+	VoicePitch = 113	
+End	
+
+Expert "低調點"
+	VoicePitch = 90
+End	
+
+Expert "波霸奶茶半糖去冰"
+	VoicePitch = 100	
+End		
+
+Expert "哥就是神"
+	VoicePitch = 102
+End		
+
+//----------------------------------------	VeryHard
+		
+VeryHard+Power "次一念著倒"
+	VoicePitch = 100	
+End		
+		
+VeryHard+Sniper "台中金城武"
+	VoicePitch = 110	
+End		
+		
+VeryHard+Rifle "說好不打臉"
+	VoicePitch = 120	
+End		
+		
+VeryHard+RifleT "我很會射"
+	VoicePitch = 99	
+End		
+		
+VeryHard "蒙奇D下來"
+	VoicePitch = 120	
+End		
+		
+VeryHard "沒有人"
+	VoicePitch = 125	
+End		
+		
+VeryHard "龍五快撿槍"
+	VoicePitch = 110	
+End		
+		
+VeryHard "我要打十個"
+	VoicePitch = 100	
+End		
+		
+VeryHard "奶油血滴子"
+	VoicePitch = 112	
+End		
+		
+VeryHard "巴瑞歐"
+	VoicePitch = 121	
+End		
+		
+VeryHard "差一元買多多"
+	VoicePitch = 99	
+End		
+		
+VeryHard "請問你吃素嗎"
+	VoicePitch = 119	
+End			
+		
+VeryHard "媽我上電視了"
+	VoicePitch = 116	
+End		
+		
+VeryHard "小心我拿折凳"
+	VoicePitch = 115	
+End		
+		
+VeryHard "敵會跪"
+	VoicePitch = 114	
+End		
+		
+VeryHard "隨便玩玩la"
+	VoicePitch = 112	
+End		
+		
+VeryHard "剛好五個字"
+	VoicePitch = 111	
+End		
+		
+VeryHard "聞一聞精神百倍"
+	VoicePitch = 110	
+End		
+		
+VeryHard "抖一抖活絡筋骨"
+	VoicePitch = 109	
+End		
+		
+VeryHard "JayLess傑少"
+	VoicePitch = 108	
+End		
+		
+VeryHard "SoulEater噬魂"
+	VoicePitch = 122	
+End		
+		
+VeryHard "ThuNDeR轟雷"
+	VoicePitch = 120	
+End		
+		
+VeryHard "克里斯多福氣"
+	VoicePitch = 125	
+End		
+		
+VeryHard "小檸檬c"
+	VoicePitch = 92	
+End		
+		
+VeryHard "閃開讓專業的來"
+	VoicePitch = 100	
+End		
+		
+VeryHard "少林是18同人"
+	VoicePitch = 102	
+End		
+		
+VeryHard "這你也懂"
+	VoicePitch = 104	
+End		
+		
+VeryHard "略懂略懂"
+	VoicePitch = 108	
+End		
+		
+VeryHard "萌萌站起來"
+	VoicePitch = 95	
+End		
+		
+VeryHard "我來吧讓一讓"
+	VoicePitch = 100	
+End		
+		
+VeryHard "各位姑嫂玩"
+	VoicePitch = 120	
+End		
+		
+VeryHard "我很醜但我神射手"
+	VoicePitch = 112	
+End		
+		
+VeryHard "其實我是BOT"
+	VoicePitch = 99	
+End		
+		
+VeryHard "阿霞在天上飛"
+	VoicePitch = 110	
+End		
+
+VeryHard	"台北天王星"
+	VoicePitch = 99
+End	
+
+VeryHard	"其實我是BOT2"
+	VoicePitch = 93
+End		
+
+VeryHard	"其實我是BOT3"
+	VoicePitch = 93
+End		
+
+VeryHard	"請你吃86"
+	VoicePitch = 93
+End		
+
+VeryHard	"西子灣扛霸子"
+	VoicePitch = 98
+End	
+	
+VeryHard	"1234毀滅戰士"
+	VoicePitch = 86
+End	
+
+VeryHard	"警察不准動"
+	VoicePitch = 96	
+End		
+
+VeryHard	 "你看不見我"
+	VoicePitch = 89	
+End	
+
+VeryHard	 "精華都在這裡"	
+	VoicePitch = 93	
+End	
+		
+VeryHard "歐巴給你八蕊"
+	VoicePitch = 104	
+End	
+
+VeryHard "謝謝你9487"	
+	VoicePitch = 113	
+End	
+
+VeryHard "低調點"
+	VoicePitch = 90
+End	
+
+VeryHard "波霸奶茶半糖去冰"
+	VoicePitch = 100	
+End		
+
+VeryHard "哥就是神"
+	VoicePitch = 102
+End		
+
+//----------------------------------------	Hard
+		
+Hard+Rifle "次一念著倒"
+	VoicePitch = 100	
+End		
+		
+Hard+Rifle "台中金城武"
+	VoicePitch = 110	
+End		
+		
+Hard+Rifle "說好不打臉"
+	VoicePitch = 120	
+End		
+		
+Hard+Rifle "我很會射"
+	VoicePitch = 99	
+End		
+		
+Hard+Rifle "蒙奇D下來"
+	VoicePitch = 120	
+End		
+		
+Hard+Rifle "沒有人"
+	VoicePitch = 125	
+End		
+		
+Hard+Rifle "龍五快撿槍"
+	VoicePitch = 110	
+End		
+		
+Hard+Rifle "我要打十個"
+	VoicePitch = 100	
+End		
+		
+Hard+RifleT  "奶油血滴子"
+	VoicePitch = 112	
+End		
+		
+Hard+RifleT  "巴瑞歐"
+	VoicePitch = 121	
+End		
+		
+Hard+RifleT  "差一元買多多"
+	VoicePitch = 99	
+End		
+		
+Hard+RifleT  "請問你吃素嗎"
+	VoicePitch = 119	
+End			
+		
+Hard+RifleT  "媽我上電視了"
+	VoicePitch = 116	
+End		
+		
+Hard+RifleT  "小心我拿折凳"
+	VoicePitch = 115	
+End		
+		
+Hard+RifleT  "敵會跪"
+	VoicePitch = 114	
+End		
+		
+Hard+RifleT  "隨便玩玩la"
+	VoicePitch = 112	
+End		
+		
+Hard+Spray "剛好五個字"
+	VoicePitch = 111	
+End		
+		
+Hard+Spray "聞一聞精神百倍"
+	VoicePitch = 110	
+End		
+		
+Hard+Shotgun "抖一抖活絡筋骨"
+	VoicePitch = 109	
+End		
+		
+Hard+Shotgun "JayLess傑少"
+	VoicePitch = 108	
+End		
+		
+Hard+Punch "SoulEater噬魂"
+	VoicePitch = 122	
+End		
+		
+Hard+Punch "ThuNDeR轟雷"
+	VoicePitch = 120	
+End		
+		
+Hard+Sniper "克里斯多福氣"
+	VoicePitch = 125	
+End		
+		
+Hard+Sniper "小檸檬c"
+	VoicePitch = 92	
+End		
+		
+Hard "閃開讓專業的來"
+	VoicePitch = 100	
+End		
+		
+Hard "少林是18同人"
+	VoicePitch = 102	
+End		
+		
+Hard "這你也懂"
+	VoicePitch = 104	
+End		
+		
+Hard "略懂略懂"
+	VoicePitch = 108	
+End		
+		
+Hard "萌萌站起來"
+	VoicePitch = 95	
+End		
+		
+Hard "我來吧讓一讓"
+	VoicePitch = 100	
+End		
+		
+Hard "各位姑嫂玩"
+	VoicePitch = 120	
+End		
+		
+Hard "我很醜但我神射手"
+	VoicePitch = 112	
+End		
+		
+Hard "其實我是BOT"
+	VoicePitch = 99	
+End		
+		
+Hard "阿霞在天上飛"
+	VoicePitch = 110	
+End		
+
+Hard	"台北天王星"
+	VoicePitch = 99
+End	
+
+Hard	"其實我是BOT2"
+	VoicePitch = 93
+End		
+
+Hard	"其實我是BOT3"
+	VoicePitch = 93
+End		
+
+Hard	"請你吃86"
+	VoicePitch = 93
+End		
+
+Hard	"西子灣扛霸子"
+	VoicePitch = 98
+End	
+	
+Hard	"1234毀滅戰士"
+	VoicePitch = 86
+End	
+
+Hard	"警察不准動"
+	VoicePitch = 96	
+End		
+
+Hard	 "你看不見我"
+	VoicePitch = 89	
+End	
+
+Hard	 "精華都在這裡"	
+	VoicePitch = 93	
+End	
+		
+Hard "歐巴給你八蕊"
+	VoicePitch = 104	
+End	
+
+Hard "謝謝你9487"	
+	VoicePitch = 113	
+End	
+
+Hard "低調點"
+	VoicePitch = 90
+End	
+
+Hard "波霸奶茶半糖去冰"
+	VoicePitch = 100	
+End		
+
+Hard "哥就是神"
+	VoicePitch = 102
+End		
+
+//----------------------------------------		Tough
+		
+Tough+Sniper "次一念著倒"
+	VoicePitch = 100	
+End		
+		
+Tough+Sniper "台中金城武"
+	VoicePitch = 110	
+End		
+		
+Tough+Rifle "說好不打臉"
+	VoicePitch = 120	
+End		
+		
+Tough+Rifle "我很會射"
+	VoicePitch = 99	
+End		
+		
+Tough+Rifle "蒙奇D下來"
+	VoicePitch = 120	
+End		
+		
+Tough+RifleT "沒有人"
+	VoicePitch = 125	
+End		
+		
+Tough+RifleT "龍五快撿槍"
+	VoicePitch = 110	
+End		
+		
+Tough+RifleT "我要打十個"
+	VoicePitch = 100	
+End		
+		
+Tough+Shotgun  "奶油血滴子"
+	VoicePitch = 112	
+End		
+		
+Tough+Shotgun  "巴瑞歐"
+	VoicePitch = 121	
+End		
+		
+Tough+Rifle  "差一元買多多"
+	VoicePitch = 99	
+End		
+		
+Tough+Rifle  "請問你吃素嗎"
+	VoicePitch = 119	
+End			
+		
+Tough+RifleT  "媽我上電視了"
+	VoicePitch = 116	
+End		
+		
+Tough+RifleT  "小心我拿折凳"
+	VoicePitch = 115	
+End		
+		
+Tough "敵會跪"
+	VoicePitch = 114	
+End		
+		
+Tough "隨便玩玩la"
+	VoicePitch = 112	
+End		
+		
+Tough "剛好五個字"
+	VoicePitch = 111	
+End		
+		
+Tough "聞一聞精神百倍"
+	VoicePitch = 110	
+End		
+		
+Tough "抖一抖活絡筋骨"
+	VoicePitch = 109	
+End		
+		
+Tough "JayLess傑少"
+	VoicePitch = 108	
+End		
+		
+Tough "SoulEater噬魂"
+	VoicePitch = 122	
+End		
+		
+Tough "ThuNDeR轟雷"
+	VoicePitch = 120	
+End		
+		
+Tough "克里斯多福氣"
+	VoicePitch = 125	
+End		
+		
+Tough "小檸檬c"
+	VoicePitch = 92	
+End		
+		
+Tough "閃開讓專業的來"
+	VoicePitch = 100	
+End		
+		
+Tough "少林是18同人"
+	VoicePitch = 102	
+End		
+		
+Tough "這你也懂"
+	VoicePitch = 104	
+End		
+		
+Tough "略懂略懂"
+	VoicePitch = 108	
+End		
+		
+Tough "萌萌站起來"
+	VoicePitch = 95	
+End		
+		
+Tough "我來吧讓一讓"
+	VoicePitch = 100	
+End		
+		
+Tough "各位姑嫂玩"
+	VoicePitch = 120	
+End		
+		
+Tough "我很醜但我神射手"
+	VoicePitch = 112	
+End		
+		
+Tough "其實我是BOT"
+	VoicePitch = 99	
+End		
+		
+Tough "阿霞在天上飛"
+	VoicePitch = 110	
+End		
+
+Tough	"台北天王星"
+	VoicePitch = 99
+End	
+
+Tough	"其實我是BOT2"
+	VoicePitch = 93
+End		
+
+Tough	"其實我是BOT3"
+	VoicePitch = 93
+End		
+
+Tough	"請你吃86"
+	VoicePitch = 93
+End		
+
+Tough	"西子灣扛霸子"
+	VoicePitch = 98
+End	
+	
+Tough	"1234毀滅戰士"
+	VoicePitch = 86
+End	
+
+Tough	"警察不准動"
+	VoicePitch = 96	
+End		
+
+Tough	 "你看不見我"
+	VoicePitch = 89	
+End	
+
+Tough	 "精華都在這裡"	
+	VoicePitch = 93	
+End	
+		
+Tough "歐巴給你八蕊"
+	VoicePitch = 104	
+End	
+
+Tough "謝謝你9487"	
+	VoicePitch = 113	
+End	
+
+Tough "低調點"
+	VoicePitch = 90
+End	
+
+Tough "波霸奶茶半糖去冰"
+	VoicePitch = 100	
+End		
+
+Tough "哥就是神"
+	VoicePitch = 102
+End		
+
+//----------------------------------------	Normal: 31
+		
+Normal+Rifle "次一念著倒"
+	VoicePitch = 100	
+End		
+		
+Normal+Rifle "台中金城武"
+	VoicePitch = 110	
+End		
+		
+Normal+PunchT "說好不打臉"
+	VoicePitch = 120	
+End		
+		
+Normal+Sniper "我很會射"
+	VoicePitch = 99	
+End		
+		
+Normal "蒙奇D下來"
+	VoicePitch = 120	
+End		
+		
+Normal "沒有人"
+	VoicePitch = 125	
+End		
+		
+Normal "龍五快撿槍"
+	VoicePitch = 110	
+End		
+		
+Normal "我要打十個"
+	VoicePitch = 100	
+End		
+		
+Normal "奶油血滴子"
+	VoicePitch = 112	
+End		
+		
+Normal "巴瑞歐"
+	VoicePitch = 121	
+End		
+		
+Normal "差一元買多多"
+	VoicePitch = 99	
+End		
+		
+Normal "請問你吃素嗎"
+	VoicePitch = 119	
+End			
+		
+Normal "媽我上電視了"
+	VoicePitch = 116	
+End		
+		
+Normal "小心我拿折凳"
+	VoicePitch = 115	
+End		
+		
+Normal "敵會跪"
+	VoicePitch = 114	
+End		
+		
+Normal "隨便玩玩la"
+	VoicePitch = 112	
+End		
+		
+Normal "剛好五個字"
+	VoicePitch = 111	
+End		
+		
+Normal "聞一聞精神百倍"
+	VoicePitch = 110	
+End		
+		
+Normal "抖一抖活絡筋骨"
+	VoicePitch = 109	
+End		
+		
+Normal "JayLess傑少"
+	VoicePitch = 108	
+End		
+		
+Normal "SoulEater噬魂"
+	VoicePitch = 122	
+End		
+		
+Normal "ThuNDeR轟雷"
+	VoicePitch = 120	
+End		
+		
+Normal "克里斯多福氣"
+	VoicePitch = 125	
+End		
+		
+Normal "小檸檬c"
+	VoicePitch = 92	
+End		
+		
+Normal "閃開讓專業的來"
+	VoicePitch = 100	
+End		
+		
+Normal "少林是18同人"
+	VoicePitch = 102	
+End		
+		
+Normal "這你也懂"
+	VoicePitch = 104	
+End		
+		
+Normal "略懂略懂"
+	VoicePitch = 108	
+End		
+		
+Normal "萌萌站起來"
+	VoicePitch = 95	
+End		
+		
+Normal "我來吧讓一讓"
+	VoicePitch = 100	
+End		
+		
+Normal "各位姑嫂玩"
+	VoicePitch = 120	
+End		
+		
+Normal "我很醜但我神射手"
+	VoicePitch = 112	
+End		
+		
+Normal "其實我是BOT"
+	VoicePitch = 99	
+End		
+		
+Normal "阿霞在天上飛"
+	VoicePitch = 110	
+End		
+
+Normal	"台北天王星"
+	VoicePitch = 99
+End	
+
+Normal	"其實我是BOT2"
+	VoicePitch = 93
+End		
+
+Normal	"其實我是BOT3"
+	VoicePitch = 93
+End		
+
+Normal	"請你吃86"
+	VoicePitch = 93
+End		
+
+Normal	"西子灣扛霸子"
+	VoicePitch = 98
+End	
+	
+Normal	"1234毀滅戰士"
+	VoicePitch = 86
+End	
+
+Normal	"警察不准動"
+	VoicePitch = 96	
+End		
+
+Normal	 "你看不見我"
+	VoicePitch = 89	
+End	
+
+Normal	 "精華都在這裡"	
+	VoicePitch = 93	
+End	
+		
+Normal "歐巴給你八蕊"
+	VoicePitch = 104	
+End	
+
+Normal "謝謝你9487"	
+	VoicePitch = 113	
+End	
+
+Normal "低調點"
+	VoicePitch = 90
+End	
+
+Normal "波霸奶茶半糖去冰"
+	VoicePitch = 100	
+End		
+
+Normal "哥就是神"
+	VoicePitch = 102
+End		
+
+//----------------------------------------	Fair
+
+Fair "次一念著倒"
+	VoicePitch = 100	
+End		
+		
+Fair "台中金城武"
+	VoicePitch = 110	
+End		
+		
+Fair "說好不打臉"
+	VoicePitch = 120	
+End		
+		
+Fair "我很會射"
+	VoicePitch = 99	
+End		
+		
+Fair "蒙奇D下來"
+	VoicePitch = 120	
+End		
+		
+Fair "沒有人"
+	VoicePitch = 125	
+End		
+		
+Fair "龍五快撿槍"
+	VoicePitch = 110	
+End		
+		
+Fair "我要打十個"
+	VoicePitch = 100	
+End		
+		
+Fair "奶油血滴子"
+	VoicePitch = 112	
+End		
+		
+Fair "巴瑞歐"
+	VoicePitch = 121	
+End		
+		
+Fair "差一元買多多"
+	VoicePitch = 99	
+End		
+		
+Fair "請問你吃素嗎"
+	VoicePitch = 119	
+End			
+		
+Fair "媽我上電視了"
+	VoicePitch = 116	
+End		
+		
+Fair "小心我拿折凳"
+	VoicePitch = 115	
+End		
+		
+Fair "敵會跪"
+	VoicePitch = 114	
+End		
+		
+Fair "隨便玩玩la"
+	VoicePitch = 112	
+End		
+		
+Fair "剛好五個字"
+	VoicePitch = 111	
+End		
+		
+Fair "聞一聞精神百倍"
+	VoicePitch = 110	
+End		
+		
+Fair "抖一抖活絡筋骨"
+	VoicePitch = 109	
+End		
+		
+Fair "JayLess傑少"
+	VoicePitch = 108	
+End		
+		
+Fair "SoulEater噬魂"
+	VoicePitch = 122	
+End		
+		
+Fair "ThuNDeR轟雷"
+	VoicePitch = 120	
+End		
+		
+Fair "克里斯多福氣"
+	VoicePitch = 125	
+End		
+		
+Fair "小檸檬c"
+	VoicePitch = 92	
+End		
+		
+Fair "閃開讓專業的來"
+	VoicePitch = 100	
+End		
+		
+Fair "少林是18同人"
+	VoicePitch = 102	
+End		
+		
+Fair "這你也懂"
+	VoicePitch = 104	
+End		
+		
+Fair "略懂略懂"
+	VoicePitch = 108	
+End		
+		
+Fair "萌萌站起來"
+	VoicePitch = 95	
+End		
+		
+Fair "我來吧讓一讓"
+	VoicePitch = 100	
+End		
+		
+Fair "各位姑嫂玩"
+	VoicePitch = 120	
+End		
+		
+Fair "我很醜但我神射手"
+	VoicePitch = 112	
+End		
+		
+Fair "其實我是BOT"
+	VoicePitch = 99	
+End		
+		
+Fair "阿霞在天上飛"
+	VoicePitch = 110	
+End		
+
+Fair	"台北天王星"
+	VoicePitch = 99
+End	
+
+Fair	"其實我是BOT2"
+	VoicePitch = 93
+End		
+
+Fair	"其實我是BOT3"
+	VoicePitch = 93
+End		
+
+Fair	"請你吃86"
+	VoicePitch = 93
+End		
+
+Fair	"西子灣扛霸子"
+	VoicePitch = 98
+End	
+	
+Fair	"1234毀滅戰士"
+	VoicePitch = 86
+End	
+
+Fair	"警察不准動"
+	VoicePitch = 96	
+End		
+
+Fair	 "你看不見我"
+	VoicePitch = 89	
+End	
+
+Fair	 "精華都在這裡"	
+	VoicePitch = 93	
+End	
+		
+Fair "歐巴給你八蕊"
+	VoicePitch = 104	
+End	
+
+Fair "謝謝你9487"	
+	VoicePitch = 113	
+End	
+
+Fair "低調點"
+	VoicePitch = 90
+End	
+
+Fair "波霸奶茶半糖去冰"
+	VoicePitch = 100	
+End		
+
+Fair "哥就是神"
+	VoicePitch = 102
+End		
+
+//----------------------------------------	Easy: 36
+		
+Easy "次一念著倒"
+	VoicePitch = 100	
+End		
+		
+Easy "台中金城武"
+	VoicePitch = 110	
+End		
+		
+Easy "說好不打臉"
+	VoicePitch = 120	
+End		
+		
+Easy "我很會射"
+	VoicePitch = 99	
+End		
+		
+Easy "蒙奇D下來"
+	VoicePitch = 120	
+End		
+		
+Easy "沒有人"
+	VoicePitch = 125	
+End		
+		
+Easy "龍五快撿槍"
+	VoicePitch = 110	
+End		
+		
+Easy "我要打十個"
+	VoicePitch = 100	
+End		
+		
+Easy "奶油血滴子"
+	VoicePitch = 112	
+End		
+		
+Easy "巴瑞歐"
+	VoicePitch = 121	
+End		
+		
+Easy "差一元買多多"
+	VoicePitch = 99	
+End		
+		
+Easy "請問你吃素嗎"
+	VoicePitch = 119	
+End			
+		
+Easy "媽我上電視了"
+	VoicePitch = 116	
+End		
+		
+Easy "小心我拿折凳"
+	VoicePitch = 115	
+End		
+		
+Easy "敵會跪"
+	VoicePitch = 114	
+End		
+		
+Easy "隨便玩玩la"
+	VoicePitch = 112	
+End		
+		
+Easy "剛好五個字"
+	VoicePitch = 111	
+End		
+		
+Easy "聞一聞精神百倍"
+	VoicePitch = 110	
+End		
+		
+Easy "抖一抖活絡筋骨"
+	VoicePitch = 109	
+End		
+		
+Easy "JayLess傑少"
+	VoicePitch = 108	
+End		
+		
+Easy "SoulEater噬魂"
+	VoicePitch = 122	
+End		
+		
+Easy "ThuNDeR轟雷"
+	VoicePitch = 120	
+End		
+		
+Easy "克里斯多福氣"
+	VoicePitch = 125	
+End		
+		
+Easy "小檸檬c"
+	VoicePitch = 92	
+End		
+		
+Easy "閃開讓專業的來"
+	VoicePitch = 100	
+End		
+		
+Easy "少林是18同人"
+	VoicePitch = 102	
+End		
+		
+Easy "這你也懂"
+	VoicePitch = 104	
+End		
+		
+Easy "略懂略懂"
+	VoicePitch = 108	
+End		
+		
+Easy "萌萌站起來"
+	VoicePitch = 95	
+End		
+		
+Easy "我來吧讓一讓"
+	VoicePitch = 100	
+End		
+		
+Easy "各位姑嫂玩"
+	VoicePitch = 120	
+End		
+		
+Easy "我很醜但我神射手"
+	VoicePitch = 112	
+End		
+		
+Easy "其實我是BOT"
+	VoicePitch = 99	
+End		
+		
+Easy "阿霞在天上飛"
+	VoicePitch = 110	
+End		
+
+Easy	"台北天王星"
+	VoicePitch = 99
+End	
+
+Easy	"其實我是BOT2"
+	VoicePitch = 93
+End		
+
+Easy	"其實我是BOT3"
+	VoicePitch = 93
+End		
+
+Easy	"請你吃86"
+	VoicePitch = 93
+End		
+
+Easy	"西子灣扛霸子"
+	VoicePitch = 98
+End	
+	
+Easy	"1234毀滅戰士"
+	VoicePitch = 86
+End	
+
+Easy	"警察不准動"
+	VoicePitch = 96	
+End		
+
+Easy	 "你看不見我"
+	VoicePitch = 89	
+End	
+
+Easy	 "精華都在這裡"	
+	VoicePitch = 93	
+End	
+		
+Easy "歐巴給你八蕊"
+	VoicePitch = 104	
+End	
+
+Easy "謝謝你9487"	
+	VoicePitch = 113	
+End	
+
+Easy "低調點"
+	VoicePitch = 90
+End	
+
+Easy "波霸奶茶半糖去冰"
+	VoicePitch = 100	
+End		
+
+Easy "哥就是神"
+	VoicePitch = 102
+End		
