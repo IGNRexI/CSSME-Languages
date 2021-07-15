@@ -46,181 +46,185 @@
 
 	MAP cs_siege "1" "#Cstrike_Map_Siege"
 	{
-		"1" "#Cstrike_take_underground"	"say_team 'Amankan ruang bawah tanah!'"
-		"2" "#Cstrike_enemy_garage" 		"say_team 'Musuh ada di tempat parkir!'"
-		"3" "#Cstrike_rush_hostage_room"   	"say_team 'Serang sel tahanan!'"
-		"4" "#Cstrike_snipers_watch_out" 	"say_team 'Hati-hati dengan penembak jitu!'"
-		"5" "#Cstrike_take_upper_route"  	"say_team 'Pergi ke jalan atas.'"
+		"1" "#Cstrike_take_underground"	"say_team 'Secure the basement!'"
+		"2" "#Cstrike_enemy_garage" 		"say_team 'Enemy in the parking lot!'"
+		"3" "#Cstrike_rush_hostage_room"   	"say_team 'Rush to the hostage room!'"
+		"4" "#Cstrike_snipers_watch_out" 	"say_team 'Watch out for the sniper!'"
+		"5" "#Cstrike_take_upper_route"  	"say_team 'Take upper route!'"
 	}
 
 	MAP de_train "1" "#Cstrike_train"
 	{
-		"1" "#Cstrike_rush_trainyard" 		"say_team 'Serang lokasi pengeboman stasiun kereta!'"
-		"2" "#Cstrike_rush_enclosed"		"say_team 'Serang lokasi pengeboman!'"
-		"3" "#Cstrike_flank_them"   		"say_team 'Serang ke samping!'"
-		"4" "#Cstrike_bomb_site_secure"  	"say_team 'Lokasi pengeboman aman!'"
-		"5" "#Cstrike_lend_me_blaster"  	"say_team 'Beri aku detonatornya!'"
+		"1" "#Cstrike_rush_trainyard" 		"say_team 'Rush to the bomb site in the trainyard!'"
+		"2" "#Cstrike_rush_enclosed"		"say_team 'Rush to the bombsite inside!'
+		"3" "#Cstrike_flank_them"   		"say_team 'Flank the enemy from the side!'"
+		"4" "#Cstrike_bomb_site_secure"  	"say_team 'The bomb site secured!'"
+		"5" "#Cstrike_lend_me_blaster"  	"say_team 'Lend me the blaster!'"
 	}
 
 	MAP de_vertigo "1" "#Cstrike_vertigo"
 	{
-		"1" "#Cstrike_rush_upper_level" 	"say_team 'Serang ke atas!'"
-		"2" "#Cstrike_rush_lower_level" 	"say_team 'Serang ke bawah!'"
-		"3" "#Cstrike_flank_them"   		"say_team 'Serang ke samping!'"
-		"4" "#Cstrike_snipers_watch_out"	"say_team 'Hati-hati dengan penembak jitu!'"
-		"5" "#Cstrike_bomb_site_secure"  	"say_team 'Lokasi pengeboman aman!'"
+		"1" "#Cstrike_rush_upper_level" 	"say_team 'Rush to the upper level!'"
+		"2" "#Cstrike_rush_lower_level" 	"say_team 'Rush to the lower level!'"
+		"3" "#Cstrike_flank_them"   		"say_team 'Flank the enemy from the side!'"
+		"4" "#Cstrike_snipers_watch_out"	"say_team 'Watch out for the sniper!'"
+		"5" "#Cstrike_bomb_site_secure"  	"say_team 'The bomb site secured!'"
 	}
 
 	MAP de_prodigy "1" "#Cstrike_prodigy"
 	{
-		"1" "#Cstrike_rush_to_pipes" 		"say_team 'Serang ke arah pipa!'"
-		"2" "#Cstrike_rush_to_lab" 		"say_team 'Serang lab!'"
-		"3" "#Cstrike_take_the hallway"   	"say_team 'Amankan koridor!'"
-		"4" "#Cstrike_flank_them"		"say_team 'Serang ke samping!'"
-		"5" "#Cstrike_take_the_apc"  		"say_team 'Amankan jalan untuk kendaraan lapis baja!'"
+		"1" "#Cstrike_rush_to_pipes" 		"say_team 'Rush to the pipes!'"
+		"2" "#Cstrike_rush_to_lab" 		"say_team 'Rush to the lab!'"
+		"3" "#Cstrike_take_the hallway"   	"say_team 'Secure the hallway!'"
+		"4" "#Cstrike_flank_them"		"say_team 'Flank the enemy from the side!'"
+		"5" "#Cstrike_take_the_apc"  		"say_team 'Secure the route for the APC!'"
 	}
 
 	MAP de_aztec "1" "#Cstrike_aztec"
 	{
-		"1" "#Cstrike_take_bridge"		"say_team 'Tangkap jembatannya!'"
-		"2" "#Cstrike_enemy_at_bomb_site" 	"say_team 'Musuh berada di zona pengeboman.'"
-		"3" "#Cstrike_rush_to_bomb_site"   	"say_team 'Serang lokasi pengeboman!'"
-		"4" "#Cstrike_bomb_site_secure"	"say_team 'Lokasi pengeboman aman!'"
-		"5" "#Cstrike_take_water_route"  	"say_team 'Ikuti jalur airnya!'"
+		"1" "#Cstrike_take_bridge"		"say_team 'Secure the bridge!'"
+		"2" "#Cstrike_enemy_at_bomb_site" 	"say_team 'Enemy sighted at the bomb site'"
+		"3" "#Cstrike_rush_to_bomb_site"   	"say_team 'Rush to the bomb site'"
+		"4" "#Cstrike_bomb_site_secure"	"say_team 'The bomb site secured!'"
+		"5" "#Cstrike_take_water_route"  	"say_team 'Take the watercourse!'"
 	}
 
 	MAP de_inferno "1" "#Cstrike_inferno"
 	{
-		"1" "#Cstrike_take_bridge"		"say_team 'Tangkap jembatannya!'"
-		"2" "#Cstrike_enemy_at_bomb_site" 	"say_team 'Musuh berada di zona pengeboman.'"
-		"3" "#Cstrike_rush_to_bomb_site"   	"say_team 'Serang lokasi pengeboman!'"
-		"4" "#Cstrike_bomb_site_secure"	"say_team 'Lokasi pengeboman aman!'"
-		"5" "#Cstrike_take_water_route"  	"say_team 'Ikuti jalur airnya!'"
+		"1" "#Cstrike_take_bridge"		"say_team 'Secure the bridge!'"
+		"2" "#Cstrike_enemy_at_bomb_site" 	"say_team 'Enemy sighted at the bomb site'"
+		"3" "#Cstrike_rush_to_bomb_site"   	"say_team 'Rush to the bomb site'"
+		"4" "#Cstrike_bomb_site_secure"	"say_team 'The bomb site secured!'"
+		"5" "#Cstrike_take_water_route"  	"say_team 'Take the watercourse!'"
 	}
 
 	MAP cs_office "1" "#Cstrike_office"
 	{
-		"1" "#Cstrike_take_back_route"		"say_team 'Lanjutkan melalui jalan belakang!'"
-		"2" "#Cstrike_rush_to_hostages"	"say_team 'Serang di mana tahanan itu berada!'"
-		"3" "#Cstrike_do_it_for_manilov"		"say_team 'Untuk Manilov!'"
-		"4" "#Cstrike_take_front_route"		"say_team 'Ambil jalan di depan!'"
-		"5" "#Cstrike_flank_them"		"say_team 'Serang ke samping!'"
+		"1" "#Cstrike_take_back_route"		"say_team 'Take the back route!'"
+		"2" "#Cstrike_rush_to_hostages"	"say_team 'Rush to the hostage location!'"
+		"3" "#Cstrike_do_it_for_manilov"		"say_team 'For Manilov!'"
+		"4" "#Cstrike_take_front_route"		"say_team 'Take the frontal route!'"
+		"5" "#Cstrike_flank_them"		"say_team 'Flank the enemy from the side!'"
 	}
 
 	MAP cs_backalley "1" "#Cstrike_backalley"
 	{
-		"1" "#Cstrike_flank_them"		"say_team 'Serang ke samping!'"
-		"2" "#Cstrike_enemy_overhead" 	"say_team 'Düşman tepede!'"
-		"3" "#Cstrike_rush_to_hostages"	"say_team 'Mahkumun bulunduğu yere saldırın!'"
-		"4" "#Cstrike_go_you_blaster"		"say_team 'Geber!'"
-		"5" "#Cstrike_taking_heavy_fire"		"say_team 'Ateş altındayız!'"
+		"1" "#Cstrike_flank_them"		"say_team 'Flank the enemy from the side!'"
+		"2" "#Cstrike_enemy_overhead" 	"say_team 'Enemy overhead!'"
+		"3" "#Cstrike_rush_to_hostages"	"say_team 'Rush to the hostage location!'"
+		"4" "#Cstrike_go_you_blaster"		"say_team 'Die!'"
+		"5" "#Cstrike_taking_heavy_fire"		"say_team 'We're under heavy fire!'"
 	}
 
 	MAP cs_747 "1" "#Cstrike_747"
 	{
-		"1" "#Cstrike_rush_the_plane'"		"say_team 'Serang pesawatnya.'"
-		"2" "#Cstrike_meet_in_terminal"		"say_team 'Berkumpul di terminal.'"
-		"3" "#Cstrike_enemy_outside_plane"	"say_team 'Musuh berada di luar pesawat!'"
-		"4" "#Cstrike_enemy_in_cargo"  	"say_team 'Musuh ada di gerobak barang!'"
-		"5" "#Cstrike_flank_them"		"say_team 'Serang ke samping!'"
+		"1" "#Cstrike_rush_the_plane'"		"say_team 'Rush to the plane'"
+		"2" "#Cstrike_meet_in_terminal"		"say_team 'Assemble in the terminal'"
+		"3" "#Cstrike_enemy_outside_plane"	"say_team 'Enemy outside of the plane'"
+		"4" "#Cstrike_enemy_in_cargo"  	"say_team 'Enemy in the cargo cabin!'"
+		"5" "#Cstrike_flank_them"		"say_team 'Flank the enemy from the side!'"
 	}
 
 	MAP as_oilrig "1" "#Cstrike_oilrig"
 	{
-		"1" "#Cstrike_rush_to_chopper" 	"say_team 'Serang ke arah helikopter!'"
-		"2" "#Cstrike_to_the_elevator" 		"say_team 'Lanjutkan ke lift.'"
-		"3" "#Cstrike_vip_spotted"   		"say_team 'VIP ditemukan!'"
-		"4" "#Cstrike_sniper_spotted"  		"say_team 'Penembak jitu ditemukan!'"
-		"5" "#Cstrike_protect_the_vip"  		"say_team 'Lindungi VIP!'"
+		"1" "#Cstrike_rush_to_chopper" 	"say_team 'Rush to the helicopter!'"
+		"2" "#Cstrike_to_the_elevator" 		"say_team 'To the elevator'"
+		"3" "#Cstrike_vip_spotted"   		"say_team 'VIP spotted!'"
+		"4" "#Cstrike_sniper_spotted"  		"say_team 'A sniper spotted'"
+		"5" "#Cstrike_protect_the_vip"  		"say_team 'Protect the VIP'"
 	}
 
 	MAP cs_assault "1" "#Cstrike_assault"
 	{
-		"1" "#Cstrike_rush_the_building" 	"say_team 'Serang gedungnya!'"
-		"2" "#Cstrike_take_the_vents" 		"say_team 'Amankan ventilasinya!'"
-		"3" "#Cstrike_enemy_in_vents"   	"say_team 'Musuh ada di udara!'"
-		"4" "#Cstrike_rush_hostage_room"	"say_team 'Serang sel tahanan!'"
-		"5" "#Cstrike_team_regroup"  		"say_team 'Tim, berkumpul!'"
+		"1" "#Cstrike_rush_the_building" 	"say_team 'Rush to the building!'"
+		"2" "#Cstrike_take_the_vents" 		"say_team 'Secure the vents!'"
+		"3" "#Cstrike_enemy_in_vents"   	"say_team 'Enemy in the vents!'"
+		"4" "#Cstrike_rush_hostage_room"	"say_team 'Rush to the hostage room!'"
+		"5" "#Cstrike_team_regroup"  		"say_team 'Team! Regroup!'"
 	}
 
 	MAP de_nuke "1" "#Cstrike_nuke"
 	{
-		"1" "#Cstrike_go_to_main_hall" 		"say_team 'Lanjutkan ke aula utama.'"
-		"2" "#Cstrike_go_to_basement" 		"say_team 'Pergi ke ruang bawah tanah.'"
-		"3" "#Cstrike_flank_yard"   		"say_team 'Seberangi taman.'"
-		"4" "#Cstrike_flank_comm_room"  	"say_team 'Lewati ruang pertempuran.'"
-		"5" "#Cstrike_at_entrance_hall"  	"say_team 'Di pintu masuk.'"
+		"1" "#Cstrike_go_to_main_hall" 		"say_team 'Go to the main hall'"
+		"2" "#Cstrike_go_to_basement" 		"say_team 'Move to the basement'"
+		"3" "#Cstrike_flank_yard"   		"say_team 'Bypass the yard'"
+		"4" "#Cstrike_flank_comm_room"  	"say_team 'Bypass the comm room'"
+		"5" "#Cstrike_at_entrance_hall"  	"say_team 'Currently at the entrance.'"
 	}
 
 	MAP de_cbble "1" "#Cstrike_cbble"
 	{
-		"1" "#Cstrike_heading_central_hall" 	"say_team 'Saya pindah ke jalur tengah.'"
-		"2" "#Cstrike_heading_underpass" 	"say_team 'Aku pergi ke jalan bawah tanah.'"
-		"3" "#Cstrike_sniper_in_tower"   	"say_team 'Penembak jitu terlihat di menara.'"
-		"4" "#Cstrike_bomb_target_secure"  	"say_team 'Lokasi pengeboman aman.'"
-		"5" "#Cstrike_guard_start_area"  	"say_team 'Pertahankan area awal.'"
+		"1" "#Cstrike_heading_central_hall" 	"say_team 'Currently heading towards the central hall'"
+		"2" "#Cstrike_heading_underpass" 	"say_team 'Currently heading towards the underpass'"
+		"3" "#Cstrike_sniper_in_tower"   	"say_team 'A sniper in the tower'"
+		"4" "#Cstrike_bomb_target_secure"  	"say_team 'Targeted bomb site secured'"
+		"5" "#Cstrike_guard_start_area"  	"say_team 'Start to defend the area'"
 	}
 
 	MAP de_dust "1" "#Cstrike_dust"
 	{
-		"1" "#Cstrike_heading_to_hallway" 	"say_team 'Aku pindah ke koridor.'"
-		"2" "#Cstrike_heading_underpass" 	"say_team 'Aku pergi ke jalan bawah tanah.'"
-		"3" "#Cstrike_bomb_a_secure"   	"say_team 'Lokasi pengeboman A aman.'"
-		"4" "#Cstrike_bomb_b_secure"  	"say_team 'Lokasi pengeboman B aman.'"
-		"5" "#Cstrike_sniper_at_underpass"  	"say_team 'Seorang penembak jitu terlihat di jalan bawah tanah.'"
+		"1" "#Cstrike_heading_to_hallway" 	"say_team 'Currently heading towards the hallway.'"
+		"2" "#Cstrike_heading_underpass" 	"say_team 'Currently heading towards the underpass'"
+		"3" "#Cstrike_bomb_a_secure"   	"say_team 'The bombing target A secured'"
+		"4" "#Cstrike_bomb_b_secure"  	"say_team 'The bombing target B secured'"
+		"5" "#Cstrike_sniper_at_underpass"  	"say_team 'A sniper in the underpass'"
 	}
 
 	MAP de_dust2 "1" "#Cstrike_dust2"
 	{
-		"1" "#Cstrike_heading_to_hallway" 	"say_team 'Aku pindah ke koridor.'"
-		"2" "#Cstrike_heading_underpass" 	"say_team 'Aku pergi ke jalan bawah tanah.'"
-		"3" "#Cstrike_bomb_a_secure"   	"say_team 'Lokasi pengeboman A aman.'"
-		"4" "#Cstrike_bomb_b_secure"  	"say_team 'Lokasi pengeboman B aman.'"
-		"5" "#Cstrike_heading_to_tunnel"  	"say_team 'Aku pindah ke terowongan.'"
+		"1" "#Cstrike_heading_to_hallway" 	"say_team 'Currently heading towards the hallway.'"
+		"2" "#Cstrike_heading_underpass" 	"say_team 'Currently heading towards the underpass'"
+		"3" "#Cstrike_bomb_a_secure"   	"say_team 'The bombing target A secured'"
+		"4" "#Cstrike_bomb_b_secure"  	"say_team 'The bombing target B secured'"
+		"5" "#Cstrike_heading_to_tunnel"  	"say_team 'Currently heading towards the tunnel'"
 	}
 
 	MAP cs_italy "1" "#Cstrike_italy"
 	{
-		"1" "#Cstrike_meet_at_market" 		"say_team 'Berkumpul di pasar.'"
-		"2" "#Cstrike_rush_the_house" 		"say_team 'Serang rumah.'"
-		"3" "#Cstrike_head_to_wine_cellar"   	"say_team 'Lanjutkan ke gudang anggur.'"
-		"4" "#Cstrike_rush_long_passage"  	"say_team 'Serang terowongan panjang.'"
-		"5" "#Cstrike_hostages_rescued"  	"say_team 'Para sandera sedang diselamatkan.'"
+		"1" "#Cstrike_meet_at_market" 		"say_team 'Assemble in the market'"
+		"2" "#Cstrike_rush_the_house" 		"say_team 'Rush to the house'"
+		"3" "#Cstrike_head_to_wine_cellar"   	"say_team 'Move to the wine cellar'"
+		"4" "#Cstrike_rush_long_passage"  	"say_team 'Rush to the long passage'"
+		"5" "#Cstrike_hostages_rescued"  	"say_team 'Currently rescuing the hostages'"
 	}
 
 	MAP cs_estate "1" "#Cstrike_estate"
 	{
-		"1" "#Cstrike_go_to_sewer" 		"say_team 'Lanjutkan ke saluran pembuangan.'"
-		"2" "#Cstrike_enemy_on_first_story" 	"say_team 'Musuh ada di lantai 1.'"
-		"3" "#Cstrike_enemy_on_sec_story"   	"say_team 'Musuh ada di lantai 2.'"
-		"4" "#Cstrike_enemy_in_back"  		"say_team 'Musuh ada di belakangmu.'"
-		"5" "#Cstrike_enemy_in_front"  		"say_team 'Musuh ada di depanmu.'"
+		"1" "#Cstrike_go_to_sewer" 		"say_team 'Move to the sewer'"
+		"2" "#Cstrike_enemy_on_first_story" 	"say_team 'Enemy overhead!'"
+		"3" "#Cstrike_enemy_on_sec_story"   	"say_team 'Enemy on the second floor'"
+		"4" "#Cstrike_enemy_in_back"  		"say_team 'Enemy in the back!'"
+		"5" "#Cstrike_enemy_in_front"  		"say_team 'Enemy in the front!'"
 	}
-
+	
 	MAP as_tundra "1" "#Cstrike_tundra"
 	{
-		"1" "#Cstrike_use_sec_route" 		"say_team 'Pergi ke jalan ke-2.'"
-		"2" "#Cstrike_use_primary_route" 	"say_team 'Pergi ke jalan ke-1.'"
-		"3" "#Cstrike_snipers_watch_out"	"say_team 'Hati-hati dengan penembak jitu!'"
-		"4" "#Cstrike_rush_to_apc"  		"say_team 'Serang kendaraan lapis baja.'"
-		"5" "#Cstrike_rush_to_chopper"  	"say_team 'Serang helikopternya!'"
-	}
+		"1" "#Cstrike_use_sec_route" 		"say_team 'Take the second route'"
+		"2" "#Cstrike_use_primary_route" 	"say_team 'Take the primary route'"
+		"3" "#Cstrike_snipers_watch_out"	"say_team 'Watch out for the sniper!'"
+		"4" "#Cstrike_rush_to_apc"  		"say_team 'Rush to the APC'"
+		"5" "#Cstrike_rush_to_chopper"  	"say_team 'Rush to the helicopter!'"
+	}	
 
 	MAP cs_militia "1" "#Cstrike_militia"
 	{
-		"1" "#Cstrike_meet_at_garage" 		"say_team 'Berkumpul di ventilasi garasi.'"
-		"2" "#Cstrike_meet_front_house" 	"say_team 'Berkumpul di depan rumah.'"
-		"3" "#Cstrike_meet_backyard"   		"say_team 'Berkumpul di halaman belakang.'"
-		"4" "#Cstrike_enemy_topside"  		"say_team 'Musuh ada di atas bukit!'"
-		"5" "#Cstrike_enemy_sewers"  		"say_team 'Musuh ada di selokan!'"
+		"1" "#Cstrike_meet_at_garage" 		"say_team 'Assemble in the garage'"
+		"2" "#Cstrike_meet_front_house" 	"say_team 'Assemble in front of the house'"
+		"3" "#Cstrike_meet_backyard"   		"say_team 'Assemble in the backyard'"
+		"4" "#Cstrike_enemy_topside"  		"say_team 'Enemy overhead!'"
+		"5" "#Cstrike_enemy_sewers"  		"say_team 'Enemy in the sewers!'"
 	}
 
 
-     "2" "#Cstrike_Acknowledged"	"say_team 'BAIK.'"
-     "3" "#Cstrike_Negative"			"say_team 'Negatif.'"
-     "4" "#Cstrike_Go"			"say_team 'Ayo ayo ayo!'"
-     "5" "#Cstrike_On_My_Way"			"say_team 'Aku maju.'"
-     "6" "#Cstrike_Need_Backup"			"say_team 'Butuh bantuan'"
+     "2" "#Cstrike_Acknowledged"	"say_team 'Roger that'"
+     "3" "#Cstrike_Negative"		"say_team 'Negative'"
+     "4" "#Cstrike_Go"			"say_team 'Go go go!'"
+     "5" "#Cstrike_On_My_Way"		"say_team 'On my way'"
+     "6" "#Cstrike_Need_Backup"		"say_team 'Need backup'"
 }
 
-4 "#Cstrike_DROP_CURRENT_ITEM" 	drop
+"4" "#Cstrike_DROP_CURRENT_ITEM" 	"drop"
+
+
+
+
