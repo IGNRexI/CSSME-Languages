@@ -1,0 +1,11 @@
+Oil rig (Oilrig) - Assassination
+Map created by: MacMan (macmaninfi@aol.com)
+Texture created by: MacMan
+West land wessex helicopter created by: Agent Orange 
+[agentorange@freemail.nl]
+
+Background: Oil rig adalah tempat dimana saksi yang paling penting bersembunyi di sana. Dia telah bersembunyi disini dengan aman oleh program perlindungan sandera, namum tempat ini tidak lagi aman. Sebuah helikopter telah dikirim untuk membawa saksi ke kempat yang lebih aman. 
+
+Counter terrorist: Lindungi VIP apapun yang terjadi. Arahkan dia ke dek helikopter. 
+
+Terrorist: Bunuh VIP sebelum dia kabur. 
