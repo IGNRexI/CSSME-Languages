@@ -1,0 +1,10 @@
+﻿Metro - Zombie 
+Plan/Produced: Nexon 
+Texture/Modification: Nexon 
+
+Kamu ingin selamat di kota ini setelah menyebarnya virus zombie yang sangat berbahaya
+Pastikan kamu menjauh dari terminal bawah tanah, Seperti terminal kereta yang sangat mengerikan ini 
+Saya Percaya kamu tidak mempunyai niatan untuk menerobos segerombolan zombie ... 
+
+Humans: Bertahan hidup dari serangan zombie atau membunuh semua zombie dalam periode waktu tertentu
+Zombies: Menginfeksi semua pemain dan mengubah mereka menjadi zombie

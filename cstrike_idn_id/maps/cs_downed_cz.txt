@@ -1,0 +1,9 @@
+﻿Downed - Hostage Rescue
+
+Serangan Terrorist berhasil menjatuhkan pesawat komersial dan terjatuh di hutan. negosiasi dengan Terrorist menginginkan Emas untuk ditukar dengan sandera.  
+
+Counter-Terrorist: Selamatkan sandera dan kalahkan terrorist.
+
+Terrorist: Gagalkan pasukan CT untuk menyelamatkan Sandera.
+
+Note: Map ini memiliki 4 sandera.

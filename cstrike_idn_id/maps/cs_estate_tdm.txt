@@ -1,0 +1,6 @@
+﻿Estate - Team Deatchmatch
+Level Design: Zaphod Beeblebrox 
+zaphod@mapcore.com
+
+- Bunuh lawan untuk memperoleh team point
+- Pemenangnya adalah team yang mencapai point yang telah ditentukan

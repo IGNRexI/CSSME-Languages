@@ -1,0 +1,8 @@
+﻿747 - Team Deathmatch
+Level Design: Stephen "Judas" Superville 
+(witchdawn@hotmail.com)
+Texture Edit: "The Postman" 
+(heavengame@yahoo.com)
+
+- Bunuh lawan untuk memperoleh team point
+- Pemenangnya adalah team yang mencapai point yang telah ditentukan

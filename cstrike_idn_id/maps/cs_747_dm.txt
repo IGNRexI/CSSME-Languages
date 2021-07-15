@@ -1,0 +1,8 @@
+﻿747 - Deathmatch
+Level Design: Stephen "Judas" Superville 
+(witchdawn@hotmail.com)
+Texture Edit: "The Postman" 
+(heavengame@yahoo.com)
+
+- Bunuh semua lawan di sekitar
+- Pemenangnya adalah pemain dengan jumlah KILL terbanyak!

@@ -1,0 +1,7 @@
+﻿Italy(Italy) - Zombie Association
+Map created by:glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Texy/Graphic created by:DigiChaos (digichaos@hotsheep.com)
+
+
+- Bunuh lawan untuk memperoleh team point
+- Pemenangnya adalah team yang mencapai point yang telah ditentukan

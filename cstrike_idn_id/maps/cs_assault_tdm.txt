@@ -1,0 +1,5 @@
+﻿Assault - Team Deathmatch
+Level Design: CryptR (lmuur@dlc.fi)
+
+- Bunuh lawan untuk memperoleh team point
+- Pemenangnya adalah team yang mencapai point yang telah ditentukan

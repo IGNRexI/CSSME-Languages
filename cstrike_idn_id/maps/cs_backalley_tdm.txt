@@ -1,0 +1,5 @@
+﻿Backalley - Team Deathmatch
+Level Design: TYR (tyr@barking-dog.com)
+
+- Bunuh lawan untuk memperoleh team point
+- Pemenangnya adalah team yang mencapai point yang telah ditentukan

@@ -1,0 +1,4 @@
+﻿Downed - Team Deatchmatch
+
+- Bunuh lawan untuk memperoleh team point
+- Pemenangnya adalah team yang mencapai point yang telah ditentukan

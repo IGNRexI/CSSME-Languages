@@ -1,0 +1,8 @@
+﻿Camouflage2(Camouflage2) - zombie
+Plan / Production : Nexon
+Texture/Modeling/Modify : Nexon
+
+Di tengah pertempuran antara Counter-Terrorist dan Terrorists, In the middle of the fight between Counter-Terrorists and Terrorists, makhluk aneh yang terlihat seperti zombie, lolos dari ReX Research Institure. Human harus menggabungkan serangan mereka untuk tetap hidup.
+
+Human : Bertahan hidup hingga waktu berakhir, atau bunuh semua zombie!
+zombie : Seranglah Human untuk mengubah mereka menjadi zombie. Ingat, Zombie lebih cepat dan kuat dari Human.

@@ -1,0 +1,10 @@
+﻿Camouflage2 - Hostage Rescue Mission
+Plan/Level Design: Nexon
+Texture/Modeling/Modification: Nexon
+
+Diketahui ada sekelompok Terrorist bersembunyi di gedung tua yang terlihat seperti gudang. Mereka telah menculik 4 Dokter dari fasilitas riset pemerintahan dan meminta sejumlah tebusan yang harus dibawa dengan Helikopter.
+
+Counter-Terrorist: Bunuh semua Terrorist, selamatkan para Hostage.
+Terrorist: Halangi Counter-Terrorist dalam menyelamatkan para Hostage.
+
+Note: Ada 4 Hostage.

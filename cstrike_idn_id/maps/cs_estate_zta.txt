@@ -1,0 +1,7 @@
+﻿Rose Manor (Estate) - Zombie Mode
+Map production: Zaphod Beeblebrox
+zaphod@mapcore.com
+
+- Bunuh lawan untuk memperoleh team point
+- Pemenangnya adalah team yang mencapai point yang telah ditentukan
+- Pemain yang telah dibunuh akan respawn pada round berikutnya

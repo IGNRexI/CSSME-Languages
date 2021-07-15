@@ -1,0 +1,5 @@
+﻿Backalley - Deathmatch
+Level Design: TYR (tyr@barking-dog.com)
+
+- Bunuh semua lawan di sekitar
+- Pemenangnya adalah pemain dengan jumlah KILL terbanyak!

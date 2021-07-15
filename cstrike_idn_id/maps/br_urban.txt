@@ -1,0 +1,17 @@
+﻿Urban Assault - Battle Rush
+Map production : Nexon
+Produced texture : Nexon
+
+
+
+Pemimpin dari pasukan Terrorist yang akan dihukum mati digunakan oleh lembaga penelitian khusus sebagai bahan uji coba. Pasukan Counter-Terrorist melakukan pemindahan Kamp ke daerah lainnya. 
+
+Terrorist mendapatkan informasi tentang pemindahan kamp tersebut, lalu melancarkan operasi untuk membebaskan pemimpin mereka.
+
+Dalam upaya pemindahan pertempuran tidak bisa dielakan.
+
+Objective:
+
+- Counter-Terrorist : Mengawal kendaraan tahanan ke tempat yang sudah ditentukan dan hancurkan semua rintangan yang menghalangi perjalanan.
+
+- Terrorist : Membebaskan pemimpin yang sedang diangkut oleh kendaraan dengan cara membuka alat di kendaraan tersebut.

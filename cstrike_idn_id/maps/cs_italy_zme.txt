@@ -1,0 +1,8 @@
+﻿Italy – Zombie Team Annihilation
+Map Maker：glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Texture/Graphic：DigiChaos (digichaos@hotsheep.com)
+
+Pada saat Counter-Terrorist mulai memeriksa laboratorium rex，Menemukan sesuatu yang tidak diketahui yaitu zombie. Human bertahan hidup bersama - sama dengan melawan zombie.
+
+Human：Bertahan hidup dari serangan Zombie hingga waktu habis atau mengalahkan semua Zombie.
+Zombie：Memiliki Kekuatan dan kecepatan gerak yang lebih hebat，Memiliki target untuk menginfeksi semua Human untuk menang.

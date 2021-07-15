@@ -1,0 +1,7 @@
+﻿Estate - Zombie Unite
+Level Design: Zaphod Beeblebrox 
+zaphod@mapcore.com
+
+- Bunuh semua lawan untuk mendapatkan team point
+- Pemenangnya adalah team yang mencapai point yang telah ditentukan
+- Mendapatkan item-chest juga dihitung sebagai KILL

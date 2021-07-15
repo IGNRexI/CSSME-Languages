@@ -1,0 +1,9 @@
+﻿Estate - Gun Death Match
+Level Design: Zaphod Beeblebrox 
+zaphod@mapcore.com
+
+Goal
+
+- Pemenangnya adalah tim yang pertama membunuh musuh dengan Final Grenade.
+- Kalahkan semua musuh di map untuk memperoleh team point.
+- Pemenangnya adalah team yang mencapai point yang telah ditentukan.

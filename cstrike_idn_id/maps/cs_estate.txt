@@ -1,0 +1,7 @@
+﻿Rose Manor (Estate) - Selamatkan Sandera
+Map production: Zaphod Beeblebrox
+zaphod@mapcore.com
+
+CT: Selamatkan para Hostage yang disandera dalam apartment.
+
+TR: Cegah CT menyelamatkan para Hostage.

@@ -1,0 +1,7 @@
+﻿Farero - Deathmatch
+Planning / Production : Nexon
+Texture / Modification : Nexon
+
+Objective
+- Bunuh semua pemain yang ada
+- Pemain yang membunuh paling banyak adalah pemenangnya

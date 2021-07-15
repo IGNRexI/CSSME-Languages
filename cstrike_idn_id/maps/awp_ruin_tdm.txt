@@ -1,0 +1,6 @@
+﻿Ancient Ruins - Team Deatchmatch
+Plan/Level Design: Nexon
+Texture/Modeling/Modification: Nexon
+
+- Bunuh lawan untuk memperoleh team point
+- Pemenangnya adalah team yang mencapai point yang telah ditentukan

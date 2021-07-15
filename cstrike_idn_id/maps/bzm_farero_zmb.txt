@@ -1,0 +1,10 @@
+﻿Farero - Zombie
+Planning / Production : Nexon
+Texture / Modification : Nexon
+
+Sekarang tidak ada lagi tempat didaratan untuk melarikan diri dari serangan infeksi.
+Hanya ada lampu-lampu mercusuar kesepian yang menerangi kegelapan dan melindungi kita dari kesedihan.
+
+Goal
+Humans : Bertahan hidup atau membunuh semua zombie
+Zombie : Menginfeksi semua Humans.

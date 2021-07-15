@@ -1,0 +1,9 @@
+﻿Backalley – Hostage Rescue
+Map Maker : TYR (tyr@barking-dog.com)
+
+Counter-Terrorist : Membebaskan hostage di markas Terrorist. berhati - hati jangan sampai membuat hostage terbunuh, Kalahkan semua anggota Terrorist.
+
+Terrorist : Mencegah Counter-Terrorist untuk membebaskan Hostage.
+
+Other : Map ini memiliki empat Hostage.
+

@@ -1,0 +1,5 @@
+﻿Backalley – Zombie Union
+Map Maker : TYR (tyr@barking-dog.com)
+
+- Kalahkan semua lawan di map, Untuk meningkatkan Score team.
+- Team yang mencapai Score yang ditentukan menjadi pemenang.

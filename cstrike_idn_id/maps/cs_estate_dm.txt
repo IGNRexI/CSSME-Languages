@@ -1,0 +1,6 @@
+﻿Estate - Deatchmatch
+Level Design: Zaphod Beeblebrox 
+zaphod@mapcore.com
+
+- Bunuh semua lawan di sekitar
+- Pemenangnya adalah pemain dengan jumlah KILL terbanyak!

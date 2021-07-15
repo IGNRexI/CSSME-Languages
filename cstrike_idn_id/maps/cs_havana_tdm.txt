@@ -1,0 +1,6 @@
+﻿Havana - Team Deatchmatch
+Ido Magal *ido@valvesoftware.com*
+Macman    *chrisa@valvesoftware.com*
+
+- Bunuh lawan untuk memperoleh team point
+- Pemenangnya adalah team yang mencapai point yang telah ditentukan

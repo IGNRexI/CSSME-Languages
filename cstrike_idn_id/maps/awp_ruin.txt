@@ -1,0 +1,8 @@
+﻿Ancient Ruins (Ruin) - Annihilation
+Plan/Level Design: Nexon
+Texture/Modeling/Modification: Nexon
+
+Team Sniper dikirimkan ke hutan belantara untuk mengambil informasi rahasia Terrorist, tetapi mereka dicegat oleh para sniper Terrorist.
+Tidak adanya bala bantuan membuat mereka hanya dapat mengandalkan senjata sniper yang dimiliki.
+
+Goal: Kalahkan semua sniper lawan untuk kemenangan.

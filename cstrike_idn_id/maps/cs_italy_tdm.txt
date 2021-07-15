@@ -1,0 +1,9 @@
+﻿Italy(Italy) - Team Death Match
+Map created by:
+glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Text/Graphic created by:
+DigiChaos (digichaos@hotsheep.com)
+
+
+- Bunuh lawan untuk memperoleh team point
+- Pemenangnya adalah team yang mencapai point yang telah ditentukan

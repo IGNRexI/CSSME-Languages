@@ -1,0 +1,8 @@
+﻿Italy(Italy) - Hostage Rescue
+Map Created by:
+glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Text/Graphic created by:
+DigiChaos (digichaos@hotsheep.com)
+
+Counter Terrorist: Selamatkan para Hostage dari para Terrorist yang menyandera mereka di salah satu rumah pedesaan Italia.
+Terrorist: Cegah misi penyelamatan Counter-Terrorist, habisi mereka jika perlu.

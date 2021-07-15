@@ -1,0 +1,6 @@
+﻿Greesia Museum - Team Deatchmatch
+Plan/Level Design: Nexon
+Texture/Modeling/Modification: Nexon
+
+- Kalahkan semua musuh di map untuk memperoleh team point.
+- Pemenangnya adalah team yang mencapai point yang telah ditentukan.

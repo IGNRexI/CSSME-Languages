@@ -1,0 +1,6 @@
+﻿Camouflage2 - Deatchmatch
+Plan/Level Design: Nexon
+Texture/Modeling/Modification: Nexon
+
+- Bunuh semua lawan di sekitar
+- Pemenangnya adalah pemain dengan jumlah KILL terbanyak!

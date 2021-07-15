@@ -1,0 +1,9 @@
+﻿Militia(Militia) - Hostage Rescue
+Map Design: Andrew Aumann (andrewja@home.com)
+
+Counter Terrorist: Selamatkan Hostage dari dalam mansion; habisi semua
+Terrorist, tapi jangan lukai Hostage.
+
+Terrorist: Cegah Counter-Terrorist menyelamatkan Hostage.
+
+Tip: Ada 4 Hostage yang harus diselamatkan.

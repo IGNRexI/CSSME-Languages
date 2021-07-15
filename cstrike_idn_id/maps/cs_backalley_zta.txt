@@ -1,0 +1,6 @@
+﻿Backalley) – Zombie Team Annihilation
+Map Maker : TYR (tyr@barking-dog.com)
+
+- Kalahkan semua lawan di Map.
+- Team yang mencapai ronde yang ditentukan menjadi pemenang.
+- Tidak bisa hidup kembali setelah mati, akan hidup pada ronde selanjutnya.

@@ -1,0 +1,5 @@
+﻿Assault - Deathmatch
+Level Design: CryptR (lmuur@dlc.fi)
+
+- Bunuh semua lawan di sekitar
+- Pemenangnya adalah pemain dengan jumlah KILL terbanyak!

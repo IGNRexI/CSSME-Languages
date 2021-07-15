@@ -1,0 +1,9 @@
+﻿Cs_assault
+
+Assault adalah map spesial penyelamatan Hostage yang menempatkan para Terrorist di dalam garasi besar. Dan mereka harus menjaga 2 pintu masuk (dari depan dan pintu belakang) serta atap. Map yang kecil ini sangat seru dimainkan dengan jumlah pemain di atas 8 orang.
+
+Terrorist Objective:
+Habisi Counter-Terrorist yang berusaha masuk.
+
+Counter-Terrorists Objective:
+Selamatkan Hostage ke Rescue Zone.

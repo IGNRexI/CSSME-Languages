@@ -1,0 +1,8 @@
+﻿Estate - Zombie
+Level Design: Zaphod Beeblebrox 
+zaphod@mapcore.com
+
+Di tengah pertempuran Counter-Terrorist dan Terrorist, makhluk aneh menyerupai zombie muncul. Sepertinya mereka kabur dari Rex Research Institute. Awas, bertahanlah hidup!
+
+Human: Bertahan hidup hingga waktu berakhir, atau bunuh semua zombie!
+Zombie: Seranglah manusia untuk mengubah mereka menjadi zombie. Ingat, zombie lebih cepat dan kuat daripada manusia.

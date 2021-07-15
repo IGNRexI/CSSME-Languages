@@ -1,0 +1,7 @@
+﻿Farero - Team Deathmatch
+Planning / Production : Nexon
+Texture / Modification : Nexon
+
+Objective
+- Membunuh semua tim musuh untuk meningkatkan skor tim.
+- Tim yang mencapai point yang ditentukan adalah pemenangnya.

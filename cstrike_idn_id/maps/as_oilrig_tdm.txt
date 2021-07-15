@@ -1,0 +1,9 @@
+﻿Oilrig - Team Deathmatch
+Level Design: MacMan (macmaninfi@aol.com)
+Texture Edit: MacMan
+Westland Wessex Helicopter Design: Agent Orange 
+[agentorange@freemail.nl]
+
+- Kalahkan semua musuh di map untuk memperoleh team point.
+- Pemenangnya adalah team yang mencapai point yang telah ditentukan.
+
